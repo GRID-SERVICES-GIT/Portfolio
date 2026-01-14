@@ -4,11 +4,11 @@
 
 ---
 
-## GRID Wallet
+## XRPL Wallet
 
 <div align="center">
   
-  ![GRID Wallet Banner](../assets/grid-wallet/banner.png)
+  ![Wallet Banner](../assets/defi/wallet-banner.png)
   
   **Secure, User-Friendly XRPL Wallet**
   
@@ -31,9 +31,9 @@ A modern, secure wallet for managing XRP and XRPL tokens. Built with security-fi
 <details>
 <summary>View Screenshots</summary>
 
-![Main Wallet](../assets/grid-wallet/screenshot-1.png)
-![Send/Receive](../assets/grid-wallet/screenshot-2.png)
-![Token List](../assets/grid-wallet/screenshot-3.png)
+![Main Wallet](../assets/defi/wallet-1.png)
+![Send/Receive](../assets/defi/wallet-2.png)
+![Token List](../assets/defi/wallet-3.png)
 
 </details>
 
@@ -42,11 +42,11 @@ A modern, secure wallet for managing XRP and XRPL tokens. Built with security-fi
 
 ---
 
-## Grid Drop
+## Token Drop
 
 <div align="center">
   
-  ![Grid Drop Banner](../assets/grid-drop/banner.png)
+  ![Token Drop Banner](../assets/defi/drop-banner.png)
   
   **Token Distribution Tool**
   
@@ -68,8 +68,8 @@ Efficiently distribute tokens to multiple wallets at once. Perfect for airdrops,
 <details>
 <summary>View Screenshots</summary>
 
-![Distribution Setup](../assets/grid-drop/screenshot-1.png)
-![Progress](../assets/grid-drop/screenshot-2.png)
+![Distribution Setup](../assets/defi/drop-1.png)
+![Progress](../assets/defi/drop-2.png)
 
 </details>
 
@@ -82,7 +82,7 @@ Efficiently distribute tokens to multiple wallets at once. Perfect for airdrops,
 
 <div align="center">
   
-  ![Auto Airdrop Banner](../assets/auto-airdrop/banner.png)
+  ![Auto Airdrop Banner](../assets/defi/airdrop-banner.png)
   
   **Fully Automated Airdrop System**
   
@@ -104,8 +104,8 @@ Set-and-forget airdrop automation. Configure rules once and let the system handl
 <details>
 <summary>View Screenshots</summary>
 
-![Configuration](../assets/auto-airdrop/screenshot-1.png)
-![Schedule](../assets/auto-airdrop/screenshot-2.png)
+![Configuration](../assets/defi/airdrop-1.png)
+![Schedule](../assets/defi/airdrop-2.png)
 
 </details>
 
@@ -114,11 +114,11 @@ Set-and-forget airdrop automation. Configure rules once and let the system handl
 
 ---
 
-## Grid Lock
+## Token Lock
 
 <div align="center">
   
-  ![Grid Lock Banner](../assets/grid-lock/banner.png)
+  ![Token Lock Banner](../assets/defi/lock-banner.png)
   
   **Token Locking Mechanism**
   
@@ -140,8 +140,8 @@ Secure token locking for vesting schedules, liquidity locks, and team allocation
 <details>
 <summary>View Screenshots</summary>
 
-![Lock Creation](../assets/grid-lock/screenshot-1.png)
-![Active Locks](../assets/grid-lock/screenshot-2.png)
+![Lock Creation](../assets/defi/lock-1.png)
+![Active Locks](../assets/defi/lock-2.png)
 
 </details>
 
@@ -154,35 +154,35 @@ Secure token locking for vesting schedules, liquidity locks, and team allocation
 
 <div align="center">
   
-  ![Limit Order Tool Banner](../assets/limit-order-tool/banner.png)
+  ![Limit Order Banner](../assets/defi/limit-banner.png)
   
   **DEX Limit Order System**
   
 </div>
 
 ### Overview
-Place limit orders on the XRPL DEX that execute automatically when your target price is reached. No more watching charts.
+Place and manage limit orders on the XRPL DEX. Set your price and let the system execute when conditions are met.
 
 ### Features
-- ✅ Limit buy orders
-- ✅ Limit sell orders
-- ✅ Stop-loss orders
-- ✅ Take-profit orders
+- ✅ Limit buy/sell orders
 - ✅ Order management dashboard
 - ✅ Price alerts
-- ✅ Partial fills tracking
+- ✅ Order history
+- ✅ Multi-pair support
+- ✅ Order expiration settings
+- ✅ Partial fill tracking
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Order Creation](../assets/limit-order-tool/screenshot-1.png)
-![Order Book](../assets/limit-order-tool/screenshot-2.png)
+![Order Interface](../assets/defi/limit-1.png)
+![Order Book](../assets/defi/limit-2.png)
 
 </details>
 
 ### Tech Stack
-`TypeScript` `Node.js` `xrpl.js` `React` `WebSocket`
+`React` `TypeScript` `xrpl.js` `Node.js` `MongoDB`
 
 ---
 

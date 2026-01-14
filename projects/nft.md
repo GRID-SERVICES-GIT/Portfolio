@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![NFT Marketplace Banner](../assets/nft-marketplace/banner.png)
+  ![NFT Marketplace Banner](../assets/nft/marketplace-banner.png)
   
   **Full-Featured XRPL NFT Trading Platform**
   
@@ -52,19 +52,19 @@ A comprehensive NFT marketplace built on the XRP Ledger. Buy, sell, and trade NF
 <summary>View Screenshots</summary>
 
 ### Home Page
-![Home](../assets/nft-marketplace/screenshot-home.png)
+![Home](../assets/nft/marketplace-home.png)
 
 ### Collection View
-![Collection](../assets/nft-marketplace/screenshot-collection.png)
+![Collection](../assets/nft/marketplace-collection.png)
 
 ### NFT Detail
-![NFT Detail](../assets/nft-marketplace/screenshot-detail.png)
+![NFT Detail](../assets/nft/marketplace-detail.png)
 
 ### User Profile
-![Profile](../assets/nft-marketplace/screenshot-profile.png)
+![Profile](../assets/nft/marketplace-profile.png)
 
 ### Minting Interface
-![Mint](../assets/nft-marketplace/screenshot-mint.png)
+![Mint](../assets/nft/marketplace-mint.png)
 
 </details>
 
@@ -85,8 +85,7 @@ A comprehensive NFT marketplace built on the XRP Ledger. Buy, sell, and trade NF
 |--------|-------|
 | Collections Listed | 500+ |
 | NFTs Traded | 50,000+ |
-| Total Volume | XXX XRP |
-| Active Users | X,XXX |
+| Active Users | Growing |
 
 ---
 

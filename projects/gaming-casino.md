@@ -1,21 +1,21 @@
-# 🎰 Gaming & Casino
+# 🎰 Gaming Platforms
 
 > Entertainment and gaming platforms on the XRP Ledger
 
 ---
 
-## Casino Faucet
+## Faucet System
 
 <div align="center">
   
-  ![Casino Faucet Banner](../assets/casino-faucet/banner.png)
+  ![Faucet Banner](../assets/gaming/faucet-banner.png)
   
-  **Casino Faucet System**
+  **Token Faucet with Gaming Elements**
   
 </div>
 
 ### Overview
-A faucet system integrated with casino mechanics. Users can claim tokens periodically with engaging gameplay elements.
+A faucet system integrated with gaming mechanics. Users can claim tokens periodically with engaging gameplay elements.
 
 ### Features
 - ✅ Timed claims
@@ -30,8 +30,8 @@ A faucet system integrated with casino mechanics. Users can claim tokens periodi
 <details>
 <summary>View Screenshots</summary>
 
-![Faucet Interface](../assets/casino-faucet/screenshot-1.png)
-![Leaderboard](../assets/casino-faucet/screenshot-2.png)
+![Faucet Interface](../assets/gaming/faucet-1.png)
+![Leaderboard](../assets/gaming/faucet-2.png)
 
 </details>
 
@@ -40,11 +40,11 @@ A faucet system integrated with casino mechanics. Users can claim tokens periodi
 
 ---
 
-## Casino Cards
+## Card Games
 
 <div align="center">
   
-  ![Casino Cards Banner](../assets/casino-cards/banner.png)
+  ![Card Games Banner](../assets/gaming/cards-banner.png)
   
   **Blockchain Card Game Platform**
   
@@ -66,8 +66,8 @@ Play classic card games with XRPL tokens. Provably fair, transparent, and entert
 <details>
 <summary>View Screenshots</summary>
 
-![Game Table](../assets/casino-cards/screenshot-1.png)
-![Lobby](../assets/casino-cards/screenshot-2.png)
+![Game Table](../assets/gaming/cards-1.png)
+![Lobby](../assets/gaming/cards-2.png)
 
 </details>
 
@@ -76,11 +76,11 @@ Play classic card games with XRPL tokens. Provably fair, transparent, and entert
 
 ---
 
-## Faction Wars
+## Strategy Game
 
 <div align="center">
   
-  ![Faction Wars Banner](../assets/faction-wars/banner.png)
+  ![Strategy Game Banner](../assets/gaming/strategy-banner.png)
   
   **Blockchain Strategy Game**
   
@@ -103,9 +103,9 @@ A competitive strategy game where factions battle for territory and resources. S
 <details>
 <summary>View Screenshots</summary>
 
-![Map View](../assets/faction-wars/screenshot-1.png)
-![Battle Screen](../assets/faction-wars/screenshot-2.png)
-![Faction Stats](../assets/faction-wars/screenshot-3.png)
+![Map View](../assets/gaming/strategy-1.png)
+![Battle Screen](../assets/gaming/strategy-2.png)
+![Faction Stats](../assets/gaming/strategy-3.png)
 
 </details>
 
@@ -114,13 +114,13 @@ A competitive strategy game where factions battle for territory and resources. S
 
 ---
 
-## Lucha
+## Entertainment Platform
 
 <div align="center">
   
-  ![Lucha Banner](../assets/lucha/banner.png)
+  ![Entertainment Banner](../assets/gaming/entertainment-banner.png)
   
-  **Entertainment Platform**
+  **Interactive Entertainment Hub**
   
 </div>
 
@@ -140,8 +140,8 @@ A unique entertainment platform combining gaming elements with social features. 
 <details>
 <summary>View Screenshots</summary>
 
-![Main Interface](../assets/lucha/screenshot-1.png)
-![Events](../assets/lucha/screenshot-2.png)
+![Main Interface](../assets/gaming/entertainment-1.png)
+![Events](../assets/gaming/entertainment-2.png)
 
 </details>
 

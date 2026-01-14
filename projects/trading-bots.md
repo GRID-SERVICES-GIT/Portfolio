@@ -4,18 +4,18 @@
 
 ---
 
-## Uga MM
+## Market Maker Alpha
 
 <div align="center">
   
-  ![Uga MM Banner](../assets/uga-mm/banner.png)
+  ![Market Maker Banner](../assets/trading/mm-alpha-banner.png)
   
   **Advanced Market Maker for XRPL**
   
 </div>
 
 ### Overview
-Uga MM is a sophisticated market-making bot designed for the XRP Ledger decentralized exchange. It provides liquidity, maintains tight spreads, and executes intelligent trading strategies.
+A sophisticated market-making bot designed for the XRP Ledger decentralized exchange. Provides liquidity, maintains tight spreads, and executes intelligent trading strategies.
 
 ### Features
 - ✅ Automated bid/ask spread management
@@ -29,8 +29,8 @@ Uga MM is a sophisticated market-making bot designed for the XRP Ledger decentra
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/uga-mm/screenshot-1.png)
-![Settings](../assets/uga-mm/screenshot-2.png)
+![Dashboard](../assets/trading/mm-alpha-1.png)
+![Settings](../assets/trading/mm-alpha-2.png)
 
 </details>
 
@@ -39,21 +39,21 @@ Uga MM is a sophisticated market-making bot designed for the XRP Ledger decentra
 
 ---
 
-## Honey MM
+## Market Maker Pro
 
 <div align="center">
   
-  ![Honey MM Banner](../assets/honey-mm/banner.png)
+  ![Market Maker Pro Banner](../assets/trading/mm-pro-banner.png)
   
-  **Honey Token Market Maker**
+  **Token-Optimized Market Maker**
   
 </div>
 
 ### Overview
-Specialized market maker bot optimized for Honey token trading pairs. Ensures consistent liquidity and fair pricing for the Honey ecosystem.
+Specialized market maker bot optimized for specific token trading pairs. Ensures consistent liquidity and fair pricing for token ecosystems.
 
 ### Features
-- ✅ Honey-optimized strategies
+- ✅ Token-optimized strategies
 - ✅ Cross-pair arbitrage
 - ✅ Inventory management
 - ✅ Profit tracking
@@ -63,7 +63,7 @@ Specialized market maker bot optimized for Honey token trading pairs. Ensures co
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/honey-mm/screenshot-1.png)
+![Dashboard](../assets/trading/mm-pro-1.png)
 
 </details>
 
@@ -76,7 +76,7 @@ Specialized market maker bot optimized for Honey token trading pairs. Ensures co
 
 <div align="center">
   
-  ![Sniper Bot Banner](../assets/sniper-bot/banner.png)
+  ![Sniper Bot Banner](../assets/trading/sniper-banner.png)
   
   **Lightning-Fast Token Launch Sniper**
   
@@ -97,8 +97,8 @@ High-speed bot designed to detect and execute trades on new token launches withi
 <details>
 <summary>View Screenshots</summary>
 
-![Main Interface](../assets/sniper-bot/screenshot-1.png)
-![Activity Log](../assets/sniper-bot/screenshot-2.png)
+![Main Interface](../assets/trading/sniper-1.png)
+![Activity Log](../assets/trading/sniper-2.png)
 
 </details>
 
@@ -111,7 +111,7 @@ High-speed bot designed to detect and execute trades on new token launches withi
 
 <div align="center">
   
-  ![Volume Bot Banner](../assets/volume-bot/banner.png)
+  ![Volume Bot Banner](../assets/trading/volume-banner.png)
   
   **Intelligent Volume Generation**
   
@@ -132,7 +132,7 @@ Creates organic-looking trading volume to improve token visibility and market ac
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/volume-bot/screenshot-1.png)
+![Dashboard](../assets/trading/volume-1.png)
 
 </details>
 

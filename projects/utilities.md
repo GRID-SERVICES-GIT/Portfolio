@@ -4,18 +4,18 @@
 
 ---
 
-## Grid Node
+## XRPL Node
 
 <div align="center">
   
-  ![Grid Node Banner](../assets/grid-node/banner.png)
+  ![Node Banner](../assets/utilities/node-banner.png)
   
-  **XRPL Node Software**
+  **XRPL Node Infrastructure**
   
 </div>
 
 ### Overview
-Custom XRPL node infrastructure for the GRID ecosystem. Provides reliable, fast access to the XRP Ledger.
+Custom XRPL node infrastructure for blockchain applications. Provides reliable, fast access to the XRP Ledger.
 
 ### Features
 - ✅ Full history node
@@ -31,8 +31,8 @@ Custom XRPL node infrastructure for the GRID ecosystem. Provides reliable, fast 
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/grid-node/screenshot-1.png)
-![Metrics](../assets/grid-node/screenshot-2.png)
+![Dashboard](../assets/utilities/node-1.png)
+![Metrics](../assets/utilities/node-2.png)
 
 </details>
 
@@ -49,11 +49,11 @@ Custom XRPL node infrastructure for the GRID ecosystem. Provides reliable, fast 
 
 ---
 
-## Grid Token Checker
+## Token Checker
 
 <div align="center">
   
-  ![Grid Token Checker Banner](../assets/grid-token-checker/banner.png)
+  ![Token Checker Banner](../assets/utilities/checker-banner.png)
   
   **Token Verification Tool**
   
@@ -76,9 +76,9 @@ Verify and analyze XRPL tokens. Check holder counts, liquidity, issuer informati
 <details>
 <summary>View Screenshots</summary>
 
-![Search](../assets/grid-token-checker/screenshot-1.png)
-![Results](../assets/grid-token-checker/screenshot-2.png)
-![Analysis](../assets/grid-token-checker/screenshot-3.png)
+![Search](../assets/utilities/checker-1.png)
+![Results](../assets/utilities/checker-2.png)
+![Analysis](../assets/utilities/checker-3.png)
 
 </details>
 
@@ -87,36 +87,36 @@ Verify and analyze XRPL tokens. Check holder counts, liquidity, issuer informati
 
 ---
 
-## Grid Tickets
+## Ticketing System
 
 <div align="center">
   
-  ![Grid Tickets Banner](../assets/grid-tickets/banner.png)
+  ![Ticketing Banner](../assets/utilities/tickets-banner.png)
   
-  **Ticketing System**
+  **Blockchain Event Tickets**
   
 </div>
 
 ### Overview
-A blockchain-based ticketing system for events, access control, and raffles. NFT tickets with verification.
+Issue and manage event tickets on the XRP Ledger. NFT-based tickets with verification and transfer capabilities.
 
 ### Features
-- ✅ Event creation
-- ✅ NFT ticket minting
-- ✅ QR verification
-- ✅ Transfer/resale
-- ✅ Attendance tracking
-- ✅ Raffle system
-- ✅ Multiple ticket tiers
-- ✅ Analytics
+- ✅ NFT-based tickets
+- ✅ QR code verification
+- ✅ Ticket transfers
+- ✅ Event management
+- ✅ Attendee tracking
+- ✅ Resale controls
+- ✅ Check-in system
+- ✅ Analytics dashboard
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Event Creation](../assets/grid-tickets/screenshot-1.png)
-![Ticket View](../assets/grid-tickets/screenshot-2.png)
-![Scanner](../assets/grid-tickets/screenshot-3.png)
+![Event Creation](../assets/utilities/tickets-1.png)
+![Ticket View](../assets/utilities/tickets-2.png)
+![Check-in](../assets/utilities/tickets-3.png)
 
 </details>
 
@@ -129,6 +129,6 @@ A blockchain-based ticketing system for events, access control, and raffles. NFT
   
   [← Back to Portfolio](../README.md)
   
-  **Interested in our utilities?** [Contact Us](https://x.com/GridXRPL)
+  **Interested in our utility tools?** [Contact Us](https://x.com/GridXRPL)
   
 </div>

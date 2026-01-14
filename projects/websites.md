@@ -4,18 +4,18 @@
 
 ---
 
-## Grid Syndicate
+## Community Platform
 
 <div align="center">
   
-  ![Grid Syndicate Banner](../assets/grid-syndicate/banner.png)
+  ![Community Platform Banner](../assets/websites/community-banner.png)
   
-  **Community Platform**
+  **Member Engagement Hub**
   
 </div>
 
 ### Overview
-A community hub for the GRID ecosystem. Connect, collaborate, and participate in the GRID community.
+A community hub for token ecosystems. Connect, collaborate, and participate in community governance and activities.
 
 ### Features
 - ✅ Member profiles
@@ -30,8 +30,8 @@ A community hub for the GRID ecosystem. Connect, collaborate, and participate in
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/grid-syndicate/screenshot-1.png)
-![Community](../assets/grid-syndicate/screenshot-2.png)
+![Dashboard](../assets/websites/community-1.png)
+![Community](../assets/websites/community-2.png)
 
 </details>
 
@@ -40,18 +40,18 @@ A community hub for the GRID ecosystem. Connect, collaborate, and participate in
 
 ---
 
-## Jester Website
+## Token Website
 
 <div align="center">
   
-  ![Jester Website Banner](../assets/jester-website/banner.png)
+  ![Token Website Banner](../assets/websites/token-banner.png)
   
-  **Jester Project Website**
+  **Professional Token Landing Page**
   
 </div>
 
 ### Overview
-Official website for the Jester project. Features project information, tokenomics, roadmap, and community links.
+Professional website for token projects. Features project information, tokenomics, roadmap, and community links.
 
 ### Features
 - ✅ Modern responsive design
@@ -66,8 +66,8 @@ Official website for the Jester project. Features project information, tokenomic
 <details>
 <summary>View Screenshots</summary>
 
-![Home](../assets/jester-website/screenshot-1.png)
-![Tokenomics](../assets/jester-website/screenshot-2.png)
+![Home](../assets/websites/token-1.png)
+![Tokenomics](../assets/websites/token-2.png)
 
 </details>
 
@@ -76,18 +76,18 @@ Official website for the Jester project. Features project information, tokenomic
 
 ---
 
-## Jungle Radio
+## Streaming Platform
 
 <div align="center">
   
-  ![Jungle Radio Banner](../assets/jungle-radio/banner.png)
+  ![Streaming Banner](../assets/websites/streaming-banner.png)
   
-  **Media Streaming Platform**
+  **Community Media Platform**
   
 </div>
 
 ### Overview
-A streaming platform for the crypto community. Live shows, podcasts, and community radio.
+A streaming platform for crypto communities. Live shows, podcasts, and community radio.
 
 ### Features
 - ✅ Live streaming
@@ -102,8 +102,8 @@ A streaming platform for the crypto community. Live shows, podcasts, and communi
 <details>
 <summary>View Screenshots</summary>
 
-![Player](../assets/jungle-radio/screenshot-1.png)
-![Schedule](../assets/jungle-radio/screenshot-2.png)
+![Player](../assets/websites/streaming-1.png)
+![Schedule](../assets/websites/streaming-2.png)
 
 </details>
 
@@ -112,18 +112,18 @@ A streaming platform for the crypto community. Live shows, podcasts, and communi
 
 ---
 
-## Nuts Websites
+## Multi-Brand Platform
 
 <div align="center">
   
-  ![Nuts Websites Banner](../assets/nuts-websites/banner.png)
+  ![Multi-Brand Banner](../assets/websites/multibrand-banner.png)
   
-  **Multi-Site Platform**
+  **Multi-Tenant Web Platform**
   
 </div>
 
 ### Overview
-A collection of websites for the Nuts ecosystem. Multiple interconnected web properties under one platform.
+A collection of websites for token ecosystems. Multiple interconnected web properties under one platform.
 
 ### Features
 - ✅ Multi-tenant architecture
@@ -137,8 +137,8 @@ A collection of websites for the Nuts ecosystem. Multiple interconnected web pro
 <details>
 <summary>View Screenshots</summary>
 
-![Main Site](../assets/nuts-websites/screenshot-1.png)
-![Dashboard](../assets/nuts-websites/screenshot-2.png)
+![Main Site](../assets/websites/multibrand-1.png)
+![Dashboard](../assets/websites/multibrand-2.png)
 
 </details>
 
@@ -147,73 +147,73 @@ A collection of websites for the Nuts ecosystem. Multiple interconnected web pro
 
 ---
 
-## Badger Hole
+## Community Hub
 
 <div align="center">
   
-  ![Badger Hole Banner](../assets/badger-hole/banner.png)
+  ![Community Hub Banner](../assets/websites/hub-banner.png)
   
-  **Community Platform**
+  **Community Engagement Platform**
   
 </div>
 
 ### Overview
-Community platform for the Badger Hole project. A gathering place for community members to interact and participate.
+A dedicated space for community members to connect, share, and participate in ecosystem activities.
 
 ### Features
-- ✅ Community dashboard
 - ✅ Member directory
-- ✅ Event system
-- ✅ Reward tracking
-- ✅ Wallet integration
-- ✅ News feed
+- ✅ Content sharing
+- ✅ Achievement system
+- ✅ Event coordination
+- ✅ Resource library
+- ✅ Notification system
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Home](../assets/badger-hole/screenshot-1.png)
-![Community](../assets/badger-hole/screenshot-2.png)
+![Hub Dashboard](../assets/websites/hub-1.png)
+![Activity Feed](../assets/websites/hub-2.png)
 
 </details>
 
 ### Tech Stack
-`React` `Next.js` `Node.js` `MongoDB` `xrpl.js`
+`React` `Node.js` `MongoDB` `Socket.io`
 
 ---
 
-## DrUga
+## Web3 Application
 
 <div align="center">
   
-  ![DrUga Banner](../assets/dr-uga/banner.png)
+  ![Web3 App Banner](../assets/websites/web3app-banner.png)
   
-  **Health & Wellness Platform**
+  **Utility Web Application**
   
 </div>
 
 ### Overview
-A platform combining health and wellness with blockchain technology. Unique approach to health tracking and rewards.
+A versatile web application providing various utilities and services for XRPL users and token holders.
 
 ### Features
-- ✅ Health tracking
-- ✅ Wellness programs
-- ✅ Reward system
-- ✅ Community challenges
-- ✅ Progress visualization
-- ✅ Achievement badges
+- ✅ Wallet integration
+- ✅ Token utilities
+- ✅ User dashboard
+- ✅ Analytics
+- ✅ Notifications
+- ✅ API access
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/dr-uga/screenshot-1.png)
-![Programs](../assets/dr-uga/screenshot-2.png)
+![App Interface](../assets/websites/web3app-1.png)
+![Dashboard](../assets/websites/web3app-2.png)
 
 </details>
 
 ### Tech Stack
-`React` `Node.js` `MongoDB` `xrpl.js`
+`React` `TypeScript` `Node.js` `xrpl.js` `MongoDB`
 
 ---
 
