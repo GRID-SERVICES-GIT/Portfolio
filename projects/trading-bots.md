@@ -1,0 +1,150 @@
+# 🤖 Trading Bots
+
+> Automated trading solutions for the XRP Ledger
+
+---
+
+## Uga MM
+
+<div align="center">
+  
+  ![Uga MM Banner](../assets/uga-mm/banner.png)
+  
+  **Advanced Market Maker for XRPL**
+  
+</div>
+
+### Overview
+Uga MM is a sophisticated market-making bot designed for the XRP Ledger decentralized exchange. It provides liquidity, maintains tight spreads, and executes intelligent trading strategies.
+
+### Features
+- ✅ Automated bid/ask spread management
+- ✅ Dynamic pricing based on market conditions
+- ✅ Multi-pair support
+- ✅ Risk management controls
+- ✅ Real-time monitoring dashboard
+- ✅ Configurable strategies
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Dashboard](../assets/uga-mm/screenshot-1.png)
+![Settings](../assets/uga-mm/screenshot-2.png)
+
+</details>
+
+### Tech Stack
+`TypeScript` `Node.js` `xrpl.js` `React` `MongoDB`
+
+---
+
+## Honey MM
+
+<div align="center">
+  
+  ![Honey MM Banner](../assets/honey-mm/banner.png)
+  
+  **Honey Token Market Maker**
+  
+</div>
+
+### Overview
+Specialized market maker bot optimized for Honey token trading pairs. Ensures consistent liquidity and fair pricing for the Honey ecosystem.
+
+### Features
+- ✅ Honey-optimized strategies
+- ✅ Cross-pair arbitrage
+- ✅ Inventory management
+- ✅ Profit tracking
+- ✅ Automated rebalancing
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Dashboard](../assets/honey-mm/screenshot-1.png)
+
+</details>
+
+### Tech Stack
+`TypeScript` `Node.js` `xrpl.js` `Python`
+
+---
+
+## Sniper Bot
+
+<div align="center">
+  
+  ![Sniper Bot Banner](../assets/sniper-bot/banner.png)
+  
+  **Lightning-Fast Token Launch Sniper**
+  
+</div>
+
+### Overview
+High-speed bot designed to detect and execute trades on new token launches within milliseconds. Optimized for speed and reliability.
+
+### Features
+- ✅ Sub-second execution
+- ✅ New token detection
+- ✅ Automatic trust line creation
+- ✅ Configurable buy amounts
+- ✅ Stop-loss protection
+- ✅ Multi-wallet support
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Main Interface](../assets/sniper-bot/screenshot-1.png)
+![Activity Log](../assets/sniper-bot/screenshot-2.png)
+
+</details>
+
+### Tech Stack
+`TypeScript` `Node.js` `xrpl.js` `WebSocket`
+
+---
+
+## Volume Bot
+
+<div align="center">
+  
+  ![Volume Bot Banner](../assets/volume-bot/banner.png)
+  
+  **Intelligent Volume Generation**
+  
+</div>
+
+### Overview
+Creates organic-looking trading volume to improve token visibility and market activity. Designed to simulate natural trading patterns.
+
+### Features
+- ✅ Natural trading patterns
+- ✅ Randomized timing
+- ✅ Variable trade sizes
+- ✅ Multi-wallet rotation
+- ✅ Budget controls
+- ✅ Activity scheduling
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Dashboard](../assets/volume-bot/screenshot-1.png)
+
+</details>
+
+### Tech Stack
+`TypeScript` `Python` `Node.js` `xrpl.js`
+
+---
+
+<div align="center">
+  
+  [← Back to Portfolio](../README.md)
+  
+  **Interested in our trading bots?** [Contact Us](https://x.com/GridXRPL)
+  
+</div>
