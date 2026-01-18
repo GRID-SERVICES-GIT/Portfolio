@@ -50,7 +50,7 @@ A sleek, single-page web application for generating XRPL wallets with profession
 
 <div align="center">
   
-  ![XRPL Airdrop Tool](../assets/defi/grid-drop-placeholder.png)
+  ![XRPL Airdrop Tool](../assets/defi/grid-drop-main.png)
   
   **XRPL Airdrop Tool - Bulk Token Distribution**
   
@@ -68,6 +68,18 @@ Web-based application for efficient bulk distribution of tokens on the XRP Ledge
 - ✅ Real-time progress monitoring
 - ✅ Built-in retry mechanisms
 - ✅ Comprehensive distribution reports
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![How To Guide](../assets/defi/grid-drop-howto.png)
+*Step-by-step guide for using the airdrop tool*
+
+![Settings Panel](../assets/defi/grid-drop-settings.png)
+*Configure distribution settings and parameters*
+
+</details>
 
 ### Tech Stack
 `Python` `Flask` `xrpl-py` `JavaScript` `Firebase` `Xaman API`
