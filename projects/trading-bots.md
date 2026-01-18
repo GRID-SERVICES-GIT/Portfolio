@@ -4,41 +4,6 @@
 
 ---
 
-## Market Maker Alpha
-
-<div align="center">
-  
-  ![Market Maker Banner](../assets/trading/mm-alpha-banner.png)
-  
-  **Advanced Market Maker for XRPL**
-  
-</div>
-
-### Overview
-A sophisticated market-making bot designed for the XRP Ledger decentralized exchange. Provides liquidity, maintains tight spreads, and executes intelligent trading strategies.
-
-### Features
-- ✅ Automated bid/ask spread management
-- ✅ Dynamic pricing based on market conditions
-- ✅ Multi-pair support
-- ✅ Risk management controls
-- ✅ Real-time monitoring dashboard
-- ✅ Configurable strategies
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Dashboard](../assets/trading/mm-alpha-1.png)
-![Settings](../assets/trading/mm-alpha-2.png)
-
-</details>
-
-### Tech Stack
-`TypeScript` `Node.js` `xrpl.js` `React` `MongoDB`
-
----
-
 ## Market Maker Pro
 
 <div align="center">

@@ -16,14 +16,14 @@
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| [🤖 Trading Bots](projects/trading-bots.md) | 4 | Market makers, snipers, volume tools |
+| [🤖 Trading Bots](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
 | [💰 DeFi Tools](projects/defi-tools.md) | 5 | Wallets, airdrops, locking, DEX tools |
 | [🎰 Gaming Platforms](projects/gaming-casino.md) | 4 | Blockchain games, entertainment platforms |
 | [🖼️ NFT](projects/nft.md) | 1 | NFT marketplaces and tools |
 | [🌐 Websites & Platforms](projects/websites.md) | 6 | Web applications and platforms |
 | [🛠️ Utilities](projects/utilities.md) | 3 | Token tools, nodes, ticketing |
 
-**Total Projects: 23**
+**Total Projects: 22**
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### Most Powerful
 - ⚡ **Sniper Bot** - Lightning-fast token sniping
-- ⚡ **Market Maker Alpha** - Advanced market making
+- ⚡ **Market Maker Pro** - Token-optimized market making
 - ⚡ **Volume Bot** - Intelligent volume generation
 
 ### Most Innovative
@@ -53,7 +53,6 @@
 <details>
 <summary><b>🤖 Trading Bots</b></summary>
 
-- [Market Maker Alpha](projects/trading-bots.md#market-maker-alpha) - Advanced market maker
 - [Market Maker Pro](projects/trading-bots.md#market-maker-pro) - Token-optimized market maker
 - [Sniper Bot](projects/trading-bots.md#sniper-bot) - Token launch sniper
 - [Volume Bot](projects/trading-bots.md#volume-bot) - Volume generation tool
