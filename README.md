@@ -55,7 +55,7 @@
 ### By Category
 
 <details>
-<summary><b>🤖 Trading Bots</b></summary>
+<summary><b><img src="assets/bot.png" width="20" style="border-radius: 50%;"/> Trading Bots</b></summary>
 
 - [Market Maker Pro](projects/trading-bots.md#market-maker-pro) - Token-optimized market maker
 - [Sniper Bot](projects/trading-bots.md#sniper-bot) - Token launch sniper
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary><b>💰 DeFi Tools</b></summary>
+<summary><b><img src="assets/defi.png" width="20" style="border-radius: 50%;"/> DeFi Tools</b></summary>
 
 - [XRPL Wallet](projects/defi-tools.md#xrpl-wallet) - Secure wallet
 - [Token Drop](projects/defi-tools.md#token-drop) - Token distribution
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary><b>🎰 Gaming Platforms</b></summary>
+<summary><b><img src="assets/gaming.png" width="20" style="border-radius: 50%;"/> Gaming Platforms</b></summary>
 
 - [Faucet System](projects/gaming-casino.md#faucet-system) - Token faucet
 - [Card Games](projects/gaming-casino.md#card-games) - Blockchain card games
@@ -85,7 +85,7 @@
 </details>
 
 <details>
-<summary><b>🖼️ NFT</b></summary>
+<summary><b><img src="assets/nft.png" width="20" style="border-radius: 50%;"/> NFT</b></summary>
 
 - [NFT Marketplace](projects/nft.md#nft-marketplace) - XRPL NFT trading
 
