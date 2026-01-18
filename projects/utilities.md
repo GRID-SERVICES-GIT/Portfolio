@@ -69,41 +69,46 @@ Web-based tool for analyzing XRPL account flags and token configurations. Provid
 
 ---
 
-## Ticketing System
+## GRID Support System
 
 <div align="center">
   
   ![Ticketing Banner](../assets/utilities/tickets-banner.png)
   
-  **Blockchain Event Tickets**
+  **Multi-Channel Support Ticketing Platform**
   
 </div>
 
 ### Overview
-Issue and manage event tickets on the XRP Ledger. NFT-based tickets with verification and transfer capabilities.
+Comprehensive support ticketing system built for GRID Services with multi-channel access (Web, Telegram, Discord). Features real-time ticket management, admin dashboard, and automated Discord alerts for seamless customer support operations.
 
 ### Features
-- ✅ NFT-based tickets
-- ✅ QR code verification
-- ✅ Ticket transfers
-- ✅ Event management
-- ✅ Attendee tracking
-- ✅ Resale controls
-- ✅ Check-in system
-- ✅ Analytics dashboard
 
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
+#### User Portal
+- ✅ Multi-channel ticket creation (Web, Telegram, Discord)
+- ✅ Real-time ticket status updates
+- ✅ Message threading & communication
+- ✅ Ticket history tracking
+- ✅ Email notifications
 
-![Event Creation](../assets/utilities/tickets-1.png)
-![Ticket View](../assets/utilities/tickets-2.png)
-![Check-in](../assets/utilities/tickets-3.png)
+#### Admin Dashboard
+- ✅ Unified ticket management across all channels
+- ✅ Advanced filtering & search
+- ✅ Inline status/priority editing
+- ✅ Internal notes system
+- ✅ Team assignment functionality
+- ✅ Real-time statistics & metrics
+- ✅ Discord webhook alerts
 
-</details>
+#### Technical
+- ✅ Firebase authentication & security
+- ✅ Real-time Firestore sync
+- ✅ Cloud Functions backend
+- ✅ Role-based access control
+- ✅ Mobile-responsive design
 
 ### Tech Stack
-`React` `Node.js` `xrpl.js` `MongoDB` `QR Code API`
+`React` `TypeScript` `Firebase` `Firestore` `Cloud Functions` `TailwindCSS` `Discord Webhooks`
 
 ---
 
