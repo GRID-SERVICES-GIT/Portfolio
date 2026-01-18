@@ -53,7 +53,7 @@ Custom XRPL node infrastructure for blockchain applications. Provides reliable, 
 
 <div align="center">
   
-  ![XRPL Token Flag Checker](../assets/utilities/token-checker-banner.png)
+  ![XRPL Token Flag Checker](../assets/utilities/token-checker-fullscreen.png)
   
   **XRPL Account Flag Viewer & Token Analyzer**
   
@@ -76,8 +76,8 @@ Web-based tool for analyzing XRPL account flags and token configurations. Provid
 <details>
 <summary>View Screenshots</summary>
 
-![Full Screen View](../assets/utilities/token-checker-fullscreen.png)
-*Complete account flag analysis interface*
+![Display Banner](../assets/utilities/token-checker-banner.png)
+*Compact banner view of flag checker*
 
 </details>
 
