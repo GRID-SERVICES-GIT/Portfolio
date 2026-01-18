@@ -53,37 +53,27 @@ Custom XRPL node infrastructure for blockchain applications. Provides reliable, 
 
 <div align="center">
   
-  ![Token Checker Banner](../assets/utilities/checker-banner.png)
+  ![XRPL Token Flag Checker](../assets/utilities/token-checker-placeholder.png)
   
-  **Token Verification Tool**
+  **XRPL Account Flag Viewer & Token Analyzer**
   
 </div>
 
 ### Overview
-Verify and analyze XRPL tokens. Check holder counts, liquidity, issuer information, and trust line data.
+Web-based tool for analyzing XRPL account flags and token configurations. Provides instant visualization of account settings, security flags, and token issuer properties to help users verify token safety and configuration.
 
 ### Features
-- ✅ Token information lookup
-- ✅ Holder analysis
-- ✅ Liquidity check
-- ✅ Trust line count
-- ✅ Issuer verification
-- ✅ Scam detection flags
-- ✅ Historical data
-- ✅ Export reports
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Search](../assets/utilities/checker-1.png)
-![Results](../assets/utilities/checker-2.png)
-![Analysis](../assets/utilities/checker-3.png)
-
-</details>
+- ✅ Real-time account flag analysis
+- ✅ Visual flag status indicators
+- ✅ Token issuer verification
+- ✅ Security flag checking (RequireAuth, Disallow XRP, etc.)
+- ✅ Trust line analysis
+- ✅ Account settings overview
+- ✅ Simple one-click account lookup
+- ✅ Mobile-responsive interface
 
 ### Tech Stack
-`React` `TypeScript` `Node.js` `xrpl.js` `MongoDB`
+`JavaScript` `xrpl.js` `HTML/CSS` `Firebase Hosting`
 
 ---
 
