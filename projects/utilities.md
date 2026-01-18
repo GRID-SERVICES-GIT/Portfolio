@@ -4,48 +4,31 @@
 
 ---
 
-## XRPL Node
+## GRID Node
 
 <div align="center">
   
-  ![Node Banner](../assets/utilities/node-banner.png)
+  ![GRID Node](../assets/utilities/node1.png)
   
-  **XRPL Node Infrastructure**
+  **Pruned Private XRPL Node**
   
 </div>
 
 ### Overview
-Custom XRPL node infrastructure for blockchain applications. Provides reliable, fast access to the XRP Ledger.
+Custom pruned private XRPL node infrastructure for GRID Services. Provides reliable, fast access to the XRP Ledger with optimized storage and performance for production applications.
 
 ### Features
-- ✅ Full history node
+- ✅ Pruned ledger history
+- ✅ Private node access
 - ✅ WebSocket API
-- ✅ REST API
-- ✅ Rate limiting
-- ✅ Caching layer
+- ✅ REST API endpoints
+- ✅ Optimized performance
+- ✅ Dedicated GRID Services infrastructure
 - ✅ Health monitoring
-- ✅ Auto-restart
-- ✅ Load balancing
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Dashboard](../assets/utilities/node-1.png)
-![Metrics](../assets/utilities/node-2.png)
-
-</details>
+- ✅ Auto-restart capability
 
 ### Tech Stack
-`TypeScript` `Node.js` `rippled` `Docker` `Nginx` `Redis`
-
-### Stats
-
-| Metric | Value |
-|--------|-------|
-| Uptime | 99.99% |
-| Avg Response | <50ms |
-| Daily Requests | 1M+ |
+`rippled` `Docker` `Linux`
 
 ---
 
