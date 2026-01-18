@@ -16,7 +16,7 @@
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| [<img src="assets/bot.png" width="20"/> Trading Bots](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
+| [<img src="assets/bot.png" width="32"/> Trading Bots](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
 | [💰 DeFi Tools](projects/defi-tools.md) | 5 | Wallets, airdrops, locking, DEX tools |
 | [🎰 Gaming Platforms](projects/gaming-casino.md) | 4 | Blockchain games, entertainment platforms |
 | [🖼️ NFT](projects/nft.md) | 1 | NFT marketplaces and tools |
