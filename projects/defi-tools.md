@@ -50,35 +50,27 @@ A sleek, single-page web application for generating XRPL wallets with profession
 
 <div align="center">
   
-  ![Token Drop Banner](../assets/defi/drop-banner.png)
+  ![XRPL Airdrop Tool](../assets/defi/grid-drop-placeholder.png)
   
-  **Token Distribution Tool**
+  **XRPL Airdrop Tool - Bulk Token Distribution**
   
 </div>
 
 ### Overview
-Efficiently distribute tokens to multiple wallets at once. Perfect for airdrops, rewards, and community distributions.
+Web-based application for efficient bulk distribution of tokens on the XRP Ledger. Streamlines the process of sending tokens to multiple recipients simultaneously, perfect for airdrops, rewards distribution, and mass payment scenarios.
 
 ### Features
-- ✅ Bulk distribution (1000+ wallets)
-- ✅ CSV import
-- ✅ Variable amounts per wallet
-- ✅ Transaction batching
-- ✅ Progress tracking
-- ✅ Distribution reports
-- ✅ Retry failed transactions
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Distribution Setup](../assets/defi/drop-1.png)
-![Progress](../assets/defi/drop-2.png)
-
-</details>
+- ✅ Bulk token distribution to hundreds/thousands of recipients
+- ✅ Multiple distribution methods (equal, proportional, custom)
+- ✅ Xaman wallet integration (no private keys stored)
+- ✅ Sequential payment processing with automatic tickets
+- ✅ CSV/TXT file upload or manual entry
+- ✅ Real-time progress monitoring
+- ✅ Built-in retry mechanisms
+- ✅ Comprehensive distribution reports
 
 ### Tech Stack
-`TypeScript` `Node.js` `xrpl.js` `React`
+`Python` `Flask` `xrpl-py` `JavaScript` `Firebase` `Xaman API`
 
 ---
 
