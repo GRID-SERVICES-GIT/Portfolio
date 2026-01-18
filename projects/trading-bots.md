@@ -111,33 +111,31 @@ High-speed bot designed to detect and execute trades on new token launches withi
 
 <div align="center">
   
-  ![Volume Bot Banner](../assets/trading/volume-banner.png)
+  ![Volume Bot](../assets/trading/volume-bot-placeholder.png)
   
-  **Intelligent Volume Generation**
+  **XRPL Volume Bot - Research & Educational Tool**
   
 </div>
 
 ### Overview
-Creates organic-looking trading volume to improve token visibility and market activity. Designed to simulate natural trading patterns.
+A research-focused volume bot for the XRP Ledger with support for both testnet and mainnet environments. Features a web interface for easy control and monitoring. Designed for educational purposes to understand automated trading patterns and market dynamics.
 
 ### Features
-- ✅ Natural trading patterns
-- ✅ Randomized timing
-- ✅ Variable trade sizes
-- ✅ Multi-wallet rotation
-- ✅ Budget controls
-- ✅ Activity scheduling
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Dashboard](../assets/trading/volume-1.png)
-
-</details>
+- ✅ Dual network support (testnet/mainnet)
+- ✅ Custom token support (any XRPL token)
+- ✅ Web-based control panel
+- ✅ Real-time monitoring and stats
+- ✅ Built-in wallet generator
+- ✅ Configurable intervals and amounts
+- ✅ Natural trading pattern simulation
+- ✅ Safety features and warnings
 
 ### Tech Stack
-`TypeScript` `Python` `Node.js` `xrpl.js`
+`Node.js` `Express` `xrpl.js` `JavaScript` `HTML/CSS`
+
+**⚠️ Educational & Research Use Only**
+
+---
 
 ---
 
