@@ -73,7 +73,7 @@ Web-based tool for analyzing XRPL account flags and token configurations. Provid
 
 <div align="center">
   
-  ![Ticketing Banner](../assets/utilities/tickets-banner.png)
+  ![GRID Support System](../assets/utilities/support1.png)
   
   **Multi-Channel Support Ticketing Platform**
   
@@ -107,6 +107,19 @@ Comprehensive support ticketing system built for GRID Services with multi-channe
 - ✅ Cloud Functions backend
 - ✅ Role-based access control
 - ✅ Mobile-responsive design
+
+### Screenshots
+
+<details>
+<summary>📸 View More Screenshots</summary>
+
+![Affiliate System](../assets/utilities/support2.png)
+*Affiliate program dashboard*
+
+![Create Ticket](../assets/utilities/support3.png)
+*New ticket creation interface*
+
+</details>
 
 ### Tech Stack
 `React` `TypeScript` `Firebase` `Firestore` `Cloud Functions` `TailwindCSS` `Discord Webhooks`
