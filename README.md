@@ -14,14 +14,18 @@
 
 ## 📚 Project Categories
 
+<div align="center">
+
 | Category | Count | Description |
 |----------|-------|-------------|
-| [<img src="assets/bot.png" width="32"/> Trading Bots](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
-| [<img src="assets/defi.png" width="32"/> DeFi Tools](projects/defi-tools.md) | 5 | Wallets, airdrops, locking, DEX tools |
-| [<img src="assets/gaming.png" width="32"/> Gaming Platforms](projects/gaming-casino.md) | 4 | Blockchain games, entertainment platforms |
-| [<img src="assets/nft.png" width="32"/> NFT](projects/nft.md) | 1 | NFT marketplaces and tools |
+| [<img src="assets/bot.png" width="64" style="border-radius: 50%;"/> Trading Bots](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
+| [<img src="assets/defi.png" width="64" style="border-radius: 50%;"/> DeFi Tools](projects/defi-tools.md) | 5 | Wallets, airdrops, locking, DEX tools |
+| [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/> Gaming Platforms](projects/gaming-casino.md) | 4 | Blockchain games, entertainment platforms |
+| [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/> NFT](projects/nft.md) | 1 | NFT marketplaces and tools |
 | [🌐 Websites & Platforms](projects/websites.md) | 6 | Web applications and platforms |
 | [🛠️ Utilities](projects/utilities.md) | 3 | Token tools, nodes, ticketing |
+
+</div>
 
 **Total Projects: 22**
 
