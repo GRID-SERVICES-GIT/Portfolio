@@ -22,8 +22,8 @@
 | [<img src="assets/defi.png" width="64" style="border-radius: 50%;"/>](projects/defi-tools.md)<br/>**DeFi Tools** | 5 | Wallets, airdrops, locking, DEX tools |
 | [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/>](projects/gaming-casino.md)<br/>**Gaming Platforms** | 4 | Blockchain games, entertainment platforms |
 | [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/>](projects/nft.md)<br/>**NFT** | 1 | NFT marketplaces and tools |
-| 🌐<br/>**Websites & Platforms** | 6 | Web applications and platforms |
-| 🛠️<br/>**Utilities** | 3 | Token tools, nodes, ticketing |
+| [<img src="assets/web.png" width="64" style="border-radius: 50%;"/>](projects/websites.md)<br/>**Websites & Platforms** | 6 | Web applications and platforms |
+| [<img src="assets/utilities.png" width="64" style="border-radius: 50%;"/>](projects/utilities.md)<br/>**Utilities** | 3 | Token tools, nodes, ticketing |
 
 </div>
 
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary><b>🌐 Websites & Platforms</b></summary>
+<summary><b><img src="assets/web.png" width="40" style="border-radius: 50%;"/> Websites & Platforms</b></summary>
 
 - [Community Platform](projects/websites.md#community-platform) - Member hub
 - [Token Website](projects/websites.md#token-website) - Project landing page
@@ -104,7 +104,7 @@
 </details>
 
 <details>
-<summary><b>🛠️ Utilities</b></summary>
+<summary><b><img src="assets/utilities.png" width="40" style="border-radius: 50%;"/> Utilities</b></summary>
 
 - [XRPL Node](projects/utilities.md#xrpl-node) - Node infrastructure
 - [Token Checker](projects/utilities.md#token-checker) - Token verification
