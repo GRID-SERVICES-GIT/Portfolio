@@ -126,7 +126,7 @@ Set-and-forget airdrop automation. Configure rules once and let the system handl
 
 <div align="center">
   
-  ![XRPL Limit Order Tool](../assets/defi/limit-order-placeholder.png)
+  ![XRPL Limit Order Tool](../assets/defi/limit-order-main.png)
   
   **XRPL Limit Order Tool - Market Cap Distribution**
   
@@ -144,6 +144,15 @@ Modern web application for creating multiple XRPL limit sell orders with intelli
 - ✅ Multi-wallet support (Xaman, GemWallet, Crossmark)
 - ✅ Token supply auto-fill from XRPL network
 - ✅ Mobile responsive dark theme interface
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Order Settings](../assets/defi/limit-order-settings.png)
+*Configure distribution parameters and order settings*
+
+</details>
 
 ### Tech Stack
 `JavaScript` `Vite` `xrpl.js` `QRCode.js` `Firebase`
