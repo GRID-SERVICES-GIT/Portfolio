@@ -8,37 +8,41 @@
 
 <div align="center">
   
-  ![Wallet Banner](../assets/defi/wallet-banner.png)
+  ![Wallet Main Interface](../assets/defi/wallet-main.png)
   
-  **Secure, User-Friendly XRPL Wallet**
+  **Secure XRPL Wallet Generator**
   
 </div>
 
 ### Overview
-A modern, secure wallet for managing XRP and XRPL tokens. Built with security-first architecture and an intuitive user interface.
+A sleek, single-page web application for generating XRPL wallets with professional export options. 100% client-side generation ensures maximum security - all wallet creation happens locally in your browser with no server communication.
 
 ### Features
-- ✅ Non-custodial (your keys, your crypto)
-- ✅ Multi-account support
-- ✅ Token management
-- ✅ Transaction history
-- ✅ DEX integration
-- ✅ NFT viewing
-- ✅ Trust line management
-- ✅ QR code support
+- ✅ Generate 1-10 wallets simultaneously
+- ✅ 100% client-side generation (browser-based)
+- ✅ Multiple export formats (JSON, TXT, CSV)
+- ✅ AES-256 encryption for exported files
+- ✅ No data storage or network calls
+- ✅ Real-time progress tracking
+- ✅ Professional UI with gold/black theme
+- ✅ Copy to clipboard functionality
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Main Wallet](../assets/defi/wallet-1.png)
-![Send/Receive](../assets/defi/wallet-2.png)
-![Token List](../assets/defi/wallet-3.png)
+![Generated Wallets](../assets/defi/wallet-generated.png)
+*Generated wallets with export options*
+
+![Export Options](../assets/defi/wallet-export-options.png)
+*Multiple export formats with encryption*
 
 </details>
 
 ### Tech Stack
-`React` `TypeScript` `xrpl.js` `TailwindCSS`
+`React` `TypeScript` `Vite` `TailwindCSS` `xrpl.js` `crypto-js` `Firebase Hosting`
+
+**Live Demo:** [https://grid-wallet-generator.web.app](https://grid-wallet-generator.web.app)
 
 ---
 
