@@ -76,7 +76,7 @@ High-speed bot designed to detect and execute trades on new token launches withi
 
 <div align="center">
   
-  ![Volume Bot](../assets/trading/volume-bot-placeholder.png)
+  ![Volume Bot](../assets/banner.png)
   
   **XRPL Volume Bot - Research & Educational Tool**
   
