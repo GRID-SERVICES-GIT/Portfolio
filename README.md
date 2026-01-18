@@ -18,12 +18,12 @@
 
 | Category | Count | Description |
 |:--------:|:-----:|:------------|
-| [<img src="assets/bot.png" width="64" style="border-radius: 50%;"/><br/><span style="color: #FFD700; text-decoration: none;">**Trading Bots**</span>](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
-| [<img src="assets/defi.png" width="64" style="border-radius: 50%;"/><br/><span style="color: #FFD700; text-decoration: none;">**DeFi Tools**</span>](projects/defi-tools.md) | 5 | Wallets, airdrops, locking, DEX tools |
-| [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/><br/><span style="color: #FFD700; text-decoration: none;">**Gaming Platforms**</span>](projects/gaming-casino.md) | 4 | Blockchain games, entertainment platforms |
-| [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/><br/><span style="color: #FFD700; text-decoration: none;">**NFT**</span>](projects/nft.md) | 1 | NFT marketplaces and tools |
-| [🌐 **Websites & Platforms**](projects/websites.md) | 6 | Web applications and platforms |
-| [🛠️ **Utilities**](projects/utilities.md) | 3 | Token tools, nodes, ticketing |
+| [<img src="assets/bot.png" width="64" style="border-radius: 50%;"/>](projects/trading-bots.md)<br/>**Trading Bots** | 3 | Snipers, volume tools, market makers |
+| [<img src="assets/defi.png" width="64" style="border-radius: 50%;"/>](projects/defi-tools.md)<br/>**DeFi Tools** | 5 | Wallets, airdrops, locking, DEX tools |
+| [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/>](projects/gaming-casino.md)<br/>**Gaming Platforms** | 4 | Blockchain games, entertainment platforms |
+| [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/>](projects/nft.md)<br/>**NFT** | 1 | NFT marketplaces and tools |
+| 🌐<br/>**Websites & Platforms** | 6 | Web applications and platforms |
+| 🛠️<br/>**Utilities** | 3 | Token tools, nodes, ticketing |
 
 </div>
 
