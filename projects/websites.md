@@ -4,6 +4,34 @@
 
 ---
 
+## GRID Syndicate
+
+<div align="center">
+  
+  ![GRID Syndicate](../assets/websites/grid-syndicate-placeholder.png)
+  
+  **NFT Platform with Waitlist & Lottery System**
+  
+</div>
+
+### Overview
+Comprehensive NFT platform for GRID Syndicate featuring a public waitlist system, mint management, and admin dashboard. Enables community members to join waitlists for upcoming NFT mints with integrated lottery and winner selection functionality.
+
+### Features
+- ✅ Public waitlist registration system
+- ✅ Mint-specific and general waitlist options
+- ✅ Admin dashboard for entry management
+- ✅ CSV export functionality
+- ✅ Automated lottery/winner selection
+- ✅ Firebase-powered backend
+- ✅ Mobile-responsive design
+- ✅ XRPL wallet integration
+
+### Tech Stack
+`JavaScript` `Firebase` `Firestore` `TailwindCSS` `XRPL`
+
+---
+
 ## Community Platform
 
 <div align="center">
