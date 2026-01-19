@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <img src="../assets/banner.png" width="66%">
+  ![Market Maker Pro Banner](../assets/banner.png)
   
   **Token-Optimized Market Maker**
   
