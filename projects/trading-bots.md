@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![Market Maker Pro Banner](../assets/trading/mm-pro-banner.png)
+  ![Market Maker Pro Banner](../assets/banner.png)
   
   **Token-Optimized Market Maker**
   
@@ -23,14 +23,6 @@ Specialized market maker bot optimized for specific token trading pairs. Ensures
 - ✅ Inventory management
 - ✅ Profit tracking
 - ✅ Automated rebalancing
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Dashboard](../assets/trading/mm-pro-1.png)
-
-</details>
 
 ### Tech Stack
 `TypeScript` `Node.js` `xrpl.js` `Python`
