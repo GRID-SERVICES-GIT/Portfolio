@@ -1,4 +1,4 @@
-# ![Bot](../assets/bot.png) Trading Bots
+# <img src="../assets/bot.png" width="24" height="24"> Trading Bots
 
 > Automated trading solutions for the XRP Ledger
 
