@@ -1,4 +1,4 @@
-# 🤖 Trading Bots
+# ![Bot](../assets/bot.png) Trading Bots
 
 > Automated trading solutions for the XRP Ledger
 
