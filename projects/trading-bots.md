@@ -33,7 +33,7 @@ Specialized market maker bot optimized for specific token trading pairs. Ensures
 
 <div align="center">
   
-  ![Sniper Bot Banner](../assets/trading/sniper-banner.png)
+  ![Sniper Bot Banner](../assets/banner.png)
   
   **Lightning-Fast Token Launch Sniper**
   
@@ -49,15 +49,6 @@ High-speed bot designed to detect and execute trades on new token launches withi
 - ✅ Configurable buy amounts
 - ✅ Stop-loss protection
 - ✅ Multi-wallet support
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Main Interface](../assets/trading/sniper-1.png)
-![Activity Log](../assets/trading/sniper-2.png)
-
-</details>
 
 ### Tech Stack
 `TypeScript` `Node.js` `xrpl.js` `WebSocket`
