@@ -48,6 +48,46 @@ Comprehensive NFT whitelist platform for GRID Syndicate featuring a public waitl
 
 ---
 
+## NFT Card Fusion
+
+<div align="center">
+  
+  ![Card Fusion](../assets/banner.png)
+  
+  **NFT Card Fusion & Reminting System**
+  
+</div>
+
+### Overview
+Connect your wallet, select two NFT cards from your collection, and fuse them together to create a brand new unique card. The fused card is then reminted directly to the XRP Ledger with combined traits and attributes.
+
+### Features
+- ✅ Wallet connection via Xaman
+- ✅ Browse and select owned NFT cards
+- ✅ Two-card fusion system
+- ✅ Trait combination algorithm
+- ✅ On-chain reminting to XRPL
+- ✅ Metadata generation
+- ✅ Firebase-powered trait database
+- ✅ Card rarity system (Bronze, Silver, Gold, Halo)
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Card Selection](../assets/nft/cards-select.png)
+*Select two cards to fuse*
+
+![Fusion Result](../assets/nft/cards-fusion.png)
+*View your newly created card*
+
+</details>
+
+### Tech Stack
+`JavaScript` `Firebase` `xrpl.js` `Node.js` `Cloud Functions`
+
+---
+
 ## NFT Marketplace
 
 <div align="center">

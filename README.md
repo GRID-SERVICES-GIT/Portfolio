@@ -20,8 +20,8 @@
 |:--------:|:-----:|:------------|
 | [<img src="assets/bot.png" width="64" style="border-radius: 50%;"/>](projects/trading-bots.md)<br/>**Trading Bots** | 3 | Snipers, volume tools, market makers |
 | [<img src="assets/defi.png" width="64" style="border-radius: 50%;"/>](projects/defi-tools.md)<br/>**DeFi Tools** | 6 | Wallets, airdrops, faucets, locking, DEX tools |
-| [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/>](projects/gaming-casino.md)<br/>**Gaming Platforms** | 3 | Blockchain games, entertainment platforms |
-| [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/>](projects/nft.md)<br/>**NFT** | 1 | NFT marketplaces and tools |
+| [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/>](projects/gaming-casino.md)<br/>**Gaming Platforms** | 2 | Blockchain games, entertainment platforms |
+| [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/>](projects/nft.md)<br/>**NFT** | 3 | NFT marketplaces, fusion, and tools |
 | [<img src="assets/web.png" width="64" style="border-radius: 50%;"/>](projects/websites.md)<br/>**Websites & Platforms** | 6 | Web applications and platforms |
 | [<img src="assets/utilities.png" width="64" style="border-radius: 50%;"/>](projects/utilities.md)<br/>**Utilities** | 3 | Token tools, nodes, ticketing |
 
@@ -78,7 +78,6 @@
 <details>
 <summary><b><img src="assets/gaming.png" width="40" style="border-radius: 50%;"/> Gaming Platforms</b></summary>
 
-- [Card Games](projects/gaming-casino.md#card-games) - Blockchain card games
 - [Strategy Game](projects/gaming-casino.md#strategy-game) - Competitive strategy
 - [Entertainment Platform](projects/gaming-casino.md#entertainment-platform) - Gaming hub
 
@@ -87,6 +86,8 @@
 <details>
 <summary><b><img src="assets/nft.png" width="40" style="border-radius: 50%;"/> NFT</b></summary>
 
+- [GRID Syndicate](projects/nft.md#grid-syndicate) - NFT whitelist platform
+- [NFT Card Fusion](projects/nft.md#nft-card-fusion) - Card fusion & reminting
 - [NFT Marketplace](projects/nft.md#nft-marketplace) - XRPL NFT trading
 
 </details>

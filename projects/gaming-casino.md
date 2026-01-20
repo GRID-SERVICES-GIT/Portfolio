@@ -4,42 +4,6 @@
 
 ---
 
-## Card Games
-
-<div align="center">
-  
-  ![Card Games Banner](../assets/gaming/cards-banner.png)
-  
-  **Blockchain Card Game Platform**
-  
-</div>
-
-### Overview
-Play classic card games with XRPL tokens. Provably fair, transparent, and entertaining.
-
-### Features
-- ✅ Multiple card games
-- ✅ Provably fair RNG
-- ✅ Real-time multiplayer
-- ✅ Tournament mode
-- ✅ Chat system
-- ✅ Statistics tracking
-- ✅ Reward system
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Game Table](../assets/gaming/cards-1.png)
-![Lobby](../assets/gaming/cards-2.png)
-
-</details>
-
-### Tech Stack
-`React` `Node.js` `Socket.io` `xrpl.js` `MongoDB`
-
----
-
 ## Strategy Game
 
 <div align="center">
