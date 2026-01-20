@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRID XRPL - Project Portfolio</title>
+    <meta name="description" content="A showcase of GRID's Web3 development capabilities and products on the XRP Ledger">
+    <link rel="icon" type="image/png" href="assets/banner.png">
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --bg-dark: #0f0f1a;
+            --bg-card: #1a1a2e;
+            --bg-card-hover: #252542;
+            --text: #e2e8f0;
+            --text-muted: #94a3b8;
+            --border: #2d2d4a;
+            --accent: #22d3ee;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg-dark);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 60px 20px 40px;
+            background: linear-gradient(180deg, #1a1a2e 0%, var(--bg-dark) 100%);
+        }
+
+        .logo {
+            width: 120px;
+            height: 120px;
+            border-radius: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(99, 102, 241, 0.3);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto 20px;
+        }
+
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--bg-card);
+            color: var(--text);
+            padding: 10px 20px;
+            border-radius: 30px;
+            text-decoration: none;
+            border: 1px solid var(--border);
+            transition: all 0.3s ease;
+        }
+
+        .social-link:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+            transform: translateY(-2px);
+        }
+
+        /* Stats */
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            padding: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .stat-label {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        /* Categories Section */
+        .section-title {
+            text-align: center;
+            font-size: 1.8rem;
+            margin: 50px 0 30px;
+            color: var(--text);
+        }
+
+        .categories {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+            padding: 20px 0;
+        }
+
+        .category-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 30px 20px;
+            text-align: center;
+            text-decoration: none;
+            color: var(--text);
+            transition: all 0.3s ease;
+        }
+
+        .category-card:hover {
+            background: var(--bg-card-hover);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            border-color: var(--primary);
+        }
+
+        .category-icon {
+            width: 64px;
+            height: 64px;
+            margin-bottom: 15px;
+            border-radius: 50%;
+        }
+
+        .category-card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+        }
+
+        .category-card span {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        /* Projects Grid */
+        .projects-section {
+            padding: 40px 0;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+
+        .project-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .project-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-3px);
+        }
+
+        .project-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 15px;
+        }
+
+        .project-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+        }
+
+        .project-card h3 {
+            font-size: 1.1rem;
+        }
+
+        .project-card p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tag {
+            background: rgba(99, 102, 241, 0.15);
+            color: var(--primary);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+        }
+
+        /* Highlights */
+        .highlights {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            padding: 20px 0;
+        }
+
+        .highlight-card {
+            background: linear-gradient(135deg, var(--bg-card) 0%, #252542 100%);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 25px;
+        }
+
+        .highlight-card h3 {
+            color: var(--accent);
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+        }
+
+        .highlight-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 0;
+            color: var(--text);
+        }
+
+        /* Tech Stack */
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            padding: 20px 0;
+        }
+
+        .tech-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+        }
+
+        .tech-item h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            font-size: 0.95rem;
+        }
+
+        .tech-item p {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 50px 20px;
+            border-top: 1px solid var(--border);
+            margin-top: 50px;
+        }
+
+        footer p {
+            color: var(--text-muted);
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+
+            .stats {
+                gap: 20px;
+            }
+
+            .stat-value {
+                font-size: 2rem;
+            }
+
+            .categories {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="assets/banner.png" alt="GRID XRPL" class="logo">
+        <h1>🔷 GRID XRPL</h1>
+        <p>A showcase of our Web3 development capabilities and products on the XRP Ledger</p>
+        <a href="https://x.com/GridXRPL" target="_blank" class="social-link">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            @GridXRPL
+        </a>
+    </header>
+
+    <main class="container">
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value">22</div>
+                <div class="stat-label">Projects</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">6</div>
+                <div class="stat-label">Categories</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">XRPL</div>
+                <div class="stat-label">Blockchain</div>
+            </div>
+        </div>
+
+        <!-- Categories -->
+        <h2 class="section-title">📚 Project Categories</h2>
+        <div class="categories">
+            <a href="projects/trading-bots.md" class="category-card">
+                <img src="assets/bot.png" alt="Trading Bots" class="category-icon">
+                <h3>Trading Bots</h3>
+                <span>3 projects</span>
+            </a>
+            <a href="projects/defi-tools.md" class="category-card">
+                <img src="assets/defi.png" alt="DeFi Tools" class="category-icon">
+                <h3>DeFi Tools</h3>
+                <span>5 projects</span>
+            </a>
+            <a href="projects/gaming-casino.md" class="category-card">
+                <img src="assets/gaming.png" alt="Gaming" class="category-icon">
+                <h3>Gaming</h3>
+                <span>4 projects</span>
+            </a>
+            <a href="projects/nft.md" class="category-card">
+                <img src="assets/nft.png" alt="NFT" class="category-icon">
+                <h3>NFT</h3>
+                <span>1 project</span>
+            </a>
+            <a href="projects/websites.md" class="category-card">
+                <img src="assets/web.png" alt="Websites" class="category-icon">
+                <h3>Websites</h3>
+                <span>6 projects</span>
+            </a>
+            <a href="projects/utilities.md" class="category-card">
+                <img src="assets/utilities.png" alt="Utilities" class="category-icon">
+                <h3>Utilities</h3>
+                <span>3 projects</span>
+            </a>
+        </div>
+
+        <!-- Highlights -->
+        <h2 class="section-title">🌟 Highlights</h2>
+        <div class="highlights">
+            <div class="highlight-card">
+                <h3>🏆 Most Popular</h3>
+                <div class="highlight-item">🥇 XRPL Wallet - Secure, user-friendly</div>
+                <div class="highlight-item">🥈 NFT Marketplace - Full-featured trading</div>
+                <div class="highlight-item">🥉 Community Platform - Engagement hub</div>
+            </div>
+            <div class="highlight-card">
+                <h3>⚡ Most Powerful</h3>
+                <div class="highlight-item">⚡ Sniper Bot - Lightning-fast sniping</div>
+                <div class="highlight-item">⚡ Market Maker Pro - Token optimization</div>
+                <div class="highlight-item">⚡ Volume Bot - Intelligent volume</div>
+            </div>
+            <div class="highlight-card">
+                <h3>💡 Most Innovative</h3>
+                <div class="highlight-item">💡 Auto Airdrop - Fully automated</div>
+                <div class="highlight-item">💡 Strategy Game - Blockchain gaming</div>
+                <div class="highlight-item">💡 Token Lock - Secure locking</div>
+            </div>
+        </div>
+
+        <!-- Featured Projects -->
+        <h2 class="section-title">🚀 Featured Projects</h2>
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="project-header">
+                    <img src="assets/bot.png" alt="Market Maker" class="project-icon">
+                    <h3>Market Maker Pro</h3>
+                </div>
+                <p>Token-optimized market making bot with cross-pair arbitrage and automated rebalancing.</p>
+                <div class="tags">
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">Node.js</span>
+                    <span class="tag">xrpl.js</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-header">
+                    <img src="assets/defi.png" alt="Wallet" class="project-icon">
+                    <h3>XRPL Wallet</h3>
+                </div>
+                <p>Secure, user-friendly wallet with multi-account support, NFT viewing, and DEX integration.</p>
+                <div class="tags">
+                    <span class="tag">React</span>
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">Electron</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-header">
+                    <img src="assets/bot.png" alt="Sniper" class="project-icon">
+                    <h3>Sniper Bot</h3>
+                </div>
+                <p>Lightning-fast token launch sniper with sub-second execution and multi-wallet support.</p>
+                <div class="tags">
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">WebSocket</span>
+                    <span class="tag">xrpl.js</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-header">
+                    <img src="assets/nft.png" alt="NFT" class="project-icon">
+                    <h3>NFT Marketplace</h3>
+                </div>
+                <p>Full-featured NFT marketplace with minting, trading, auctions, and collection management.</p>
+                <div class="tags">
+                    <span class="tag">React</span>
+                    <span class="tag">Node.js</span>
+                    <span class="tag">MongoDB</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-header">
+                    <img src="assets/defi.png" alt="Airdrop" class="project-icon">
+                    <h3>Auto Airdrop</h3>
+                </div>
+                <p>Fully automated airdrop system with NFT-based distributions and scheduled drops.</p>
+                <div class="tags">
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">Firebase</span>
+                    <span class="tag">xrpl.js</span>
+                </div>
+            </div>
+            <div class="project-card">
+                <div class="project-header">
+                    <img src="assets/gaming.png" alt="Gaming" class="project-icon">
+                    <h3>Strategy Game</h3>
+                </div>
+                <p>Competitive blockchain strategy game with territory control and token rewards.</p>
+                <div class="tags">
+                    <span class="tag">React</span>
+                    <span class="tag">Node.js</span>
+                    <span class="tag">WebSocket</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tech Stack -->
+        <h2 class="section-title">💼 What We Build</h2>
+        <div class="tech-grid">
+            <div class="tech-item">
+                <h4>🔗 Blockchain</h4>
+                <p>XRPL, xrpl.js, Smart Contracts</p>
+            </div>
+            <div class="tech-item">
+                <h4>🎨 Frontend</h4>
+                <p>React, Next.js, TypeScript, TailwindCSS</p>
+            </div>
+            <div class="tech-item">
+                <h4>⚙️ Backend</h4>
+                <p>Node.js, Python, Express, MongoDB</p>
+            </div>
+            <div class="tech-item">
+                <h4>📈 Trading</h4>
+                <p>Market Making, Bots, DEX Integration</p>
+            </div>
+            <div class="tech-item">
+                <h4>🎮 Gaming</h4>
+                <p>Provably Fair, Real-time Multiplayer</p>
+            </div>
+            <div class="tech-item">
+                <h4>🖼️ NFT</h4>
+                <p>Minting, Marketplaces, Metadata</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Built with 💜 for the XRPL Community</p>
+        <p style="margin-top: 10px;">
+            <a href="https://x.com/GridXRPL">Twitter</a> • 
+            <a href="https://github.com/GRID-SERVICES-GIT">GitHub</a>
+        </p>
+    </footer>
+</body>
+</html>
