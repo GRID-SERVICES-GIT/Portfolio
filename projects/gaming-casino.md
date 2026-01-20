@@ -4,42 +4,6 @@
 
 ---
 
-## Faucet System
-
-<div align="center">
-  
-  ![Faucet Banner](../assets/gaming/faucet-banner.png)
-  
-  **Token Faucet with Gaming Elements**
-  
-</div>
-
-### Overview
-A faucet system integrated with gaming mechanics. Users can claim tokens periodically with engaging gameplay elements.
-
-### Features
-- ✅ Timed claims
-- ✅ Bonus multipliers
-- ✅ Streak rewards
-- ✅ Referral bonuses
-- ✅ Anti-bot protection
-- ✅ Leaderboards
-- ✅ Daily/weekly bonuses
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Faucet Interface](../assets/gaming/faucet-1.png)
-![Leaderboard](../assets/gaming/faucet-2.png)
-
-</details>
-
-### Tech Stack
-`React` `Node.js` `xrpl.js` `MongoDB` `Redis`
-
----
-
 ## Card Games
 
 <div align="center">

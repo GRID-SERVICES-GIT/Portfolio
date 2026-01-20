@@ -191,6 +191,43 @@ Secure token locking system for vesting schedules, liquidity locks, and team all
 
 ---
 
+## Token Faucet
+
+<div align="center">
+  
+  ![Token Faucet](../assets/banner.png)
+  
+  **XRPL Token Claim System**
+  
+</div>
+
+### Overview
+A streamlined token faucet where users connect their XRPL wallet and claim tokens. Simple, secure, and user-friendly interface for token distribution to community members.
+
+### Features
+- ✅ Wallet connection via Xaman/GemWallet
+- ✅ One-click token claims
+- ✅ Configurable claim amounts
+- ✅ Cooldown period management
+- ✅ Anti-bot protection
+- ✅ Admin dashboard for monitoring
+- ✅ Real-time claim tracking
+- ✅ Firebase-powered backend
+
+### Screenshots
+<details>
+<summary>View Screenshots</summary>
+
+![Faucet Interface](../assets/defi/faucet-main.png)
+*Connect wallet and claim tokens*
+
+</details>
+
+### Tech Stack
+`Next.js` `React` `Node.js` `xrpl.js` `Firebase` `Firestore`
+
+---
+
 <div align="center">
   
   [← Back to Portfolio](../README.md)
