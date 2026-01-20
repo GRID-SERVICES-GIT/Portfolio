@@ -90,35 +90,27 @@ Web-based application for efficient bulk distribution of tokens on the XRP Ledge
 
 <div align="center">
   
-  ![Auto Airdrop Banner](../assets/defi/airdrop-banner.png)
+  ![Auto Airdrop Banner](../assets/banner.png)
   
   **Fully Automated Airdrop System**
   
 </div>
 
 ### Overview
-Set-and-forget airdrop automation. Configure rules once and let the system handle distributions automatically based on triggers.
+Set-and-forget airdrop automation. Configure rules once and let the system handle distributions automatically based on triggers. Now with NFT-based airdrop support!
 
 ### Features
 - ✅ Scheduled airdrops
 - ✅ Holder snapshots
 - ✅ Rule-based distribution
+- ✅ NFT-based airdrops
 - ✅ Minimum balance requirements
 - ✅ Exclusion lists
 - ✅ Multi-token support
 - ✅ Notification system
 
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Configuration](../assets/defi/airdrop-1.png)
-![Schedule](../assets/defi/airdrop-2.png)
-
-</details>
-
 ### Tech Stack
-`TypeScript` `Node.js` `xrpl.js` `MongoDB` `Cron`
+`TypeScript` `Node.js` `Firebase` `xrpl.js`
 
 ---
 
