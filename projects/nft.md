@@ -92,63 +92,47 @@ Connect your wallet, select two NFT cards from your collection, and fuse them to
 
 <div align="center">
   
-  ![NFT Marketplace Banner](../assets/nft/marketplace-banner.png)
+  ![NFT Traits Marketplace](../assets/banner.png)
   
-  **Full-Featured XRPL NFT Trading Platform**
+  **Dynamic NFT Traits Marketplace**
   
 </div>
 
 ### Overview
-A comprehensive NFT marketplace built on the XRP Ledger. Buy, sell, and trade NFTs with low fees and fast transactions.
+A traits marketplace for existing NFT collections on the XRP Ledger. NFT holders can browse, purchase, and apply new traits to customize their existing NFTs. Buy traits, preview changes on your NFT with a live canvas, and commit updates directly to the ledger.
 
 ### Features
 
-#### Trading
-- ✅ Buy/Sell NFTs
-- ✅ Auction system
-- ✅ Make/Accept offers
-- ✅ Bundle sales
-- ✅ Instant sales
+#### Shopping
+- ✅ Browse traits by category (Head, Chest, Eyes, etc.)
+- ✅ Add traits to cart
+- ✅ Live canvas preview of traits on your NFT
+- ✅ Checkout with XRPL payment
 
-#### Discovery
-- ✅ Collection browsing
-- ✅ Advanced search & filters
-- ✅ Trending collections
-- ✅ Rarity rankings
-- ✅ Price history
+#### NFT Integration
+- ✅ Connect wallet to view owned NFTs
+- ✅ Select NFT to customize
+- ✅ Real-time trait layering preview
+- ✅ Commit changes to XRPL ledger
 
-#### Creator Tools
-- ✅ Mint NFTs
-- ✅ Collection management
-- ✅ Royalty settings
-- ✅ Batch minting
-- ✅ Reveal mechanics
-
-#### User Features
-- ✅ Portfolio tracking
-- ✅ Watchlists
-- ✅ Activity feed
-- ✅ Notification system
-- ✅ Analytics dashboard
+#### Trait Management
+- ✅ Category-based trait organization
+- ✅ Trait ownership tracking
+- ✅ My Traits library
+- ✅ IPFS-backed trait storage
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-### Home Page
-![Home](../assets/nft/marketplace-home.png)
+![Trait Store](../assets/nft/marketplace-store.png)
+*Browse and purchase traits*
 
-### Collection View
-![Collection](../assets/nft/marketplace-collection.png)
+![NFT Preview](../assets/nft/marketplace-preview.png)
+*Preview traits on your NFT*
 
-### NFT Detail
-![NFT Detail](../assets/nft/marketplace-detail.png)
-
-### User Profile
-![Profile](../assets/nft/marketplace-profile.png)
-
-### Minting Interface
-![Mint](../assets/nft/marketplace-mint.png)
+![Checkout](../assets/nft/marketplace-checkout.png)
+*Checkout and commit to ledger*
 
 </details>
 
@@ -156,20 +140,11 @@ A comprehensive NFT marketplace built on the XRP Ledger. Buy, sell, and trade NF
 
 | Layer | Technologies |
 |-------|--------------|
-| Frontend | React, Next.js, TailwindCSS |
-| Backend | Node.js, Express, TypeScript |
-| Database | MongoDB, Redis |
-| Blockchain | XRPL, xrpl.js |
-| Storage | IPFS, Cloudinary |
-| Search | Elasticsearch |
-
-### Stats
-
-| Metric | Value |
-|--------|-------|
-| Collections Listed | 500+ |
-| NFTs Traded | 50,000+ |
-| Active Users | Growing |
+| Frontend | Next.js, React, TypeScript, TailwindCSS |
+| Backend | Firebase Functions, TypeScript |
+| Database | Firestore |
+| Blockchain | XRPL, xrpl.js, Xaman |
+| Storage | IPFS (Pinata), Firebase Storage |
 
 ---
 
