@@ -155,71 +155,39 @@ Modern web application for creating multiple XRPL limit sell orders with intelli
 
 <div align="center">
   
-  ![Token Lock Banner](../assets/defi/lock-banner.png)
+  ![Token Lock Interface](../assets/defi/LOCKER.png)
   
   **Token Locking Mechanism**
   
 </div>
 
 ### Overview
-Secure token locking for vesting schedules, liquidity locks, and team allocations. Trustless and transparent.
+Secure token locking system for vesting schedules, liquidity locks, and team allocations on the XRP Ledger. Trustless, transparent, and fully on-chain verification.
 
 ### Features
-- ✅ Time-based locks
-- ✅ Linear/cliff vesting
+- ✅ Time-based token locks with customizable durations
+- ✅ Linear and cliff vesting schedules
 - ✅ Multi-beneficiary support
-- ✅ Emergency unlock (optional)
-- ✅ Lock certificates
-- ✅ Public verification
-- ✅ Notification on unlock
+- ✅ Lock certificates with on-chain proof
+- ✅ Public lock verification dashboard
+- ✅ Automated unlock notifications
+- ✅ Firebase-powered backend services
+- ✅ Auto-signer services for seamless operation
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Lock Creation](../assets/defi/lock-1.png)
-![Active Locks](../assets/defi/lock-2.png)
+![Lock Dashboard](../assets/defi/LOCKER.png)
+*Main lock interface*
+
+![Active Locks](../assets/defi/LOCKER2.png)
+*View and manage active locks*
 
 </details>
 
 ### Tech Stack
-`TypeScript` `xrpl.js` `React` `Node.js`
-
----
-
-## Limit Order Tool
-
-<div align="center">
-  
-  ![Limit Order Banner](../assets/defi/limit-banner.png)
-  
-  **DEX Limit Order System**
-  
-</div>
-
-### Overview
-Place and manage limit orders on the XRPL DEX. Set your price and let the system execute when conditions are met.
-
-### Features
-- ✅ Limit buy/sell orders
-- ✅ Order management dashboard
-- ✅ Price alerts
-- ✅ Order history
-- ✅ Multi-pair support
-- ✅ Order expiration settings
-- ✅ Partial fill tracking
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Order Interface](../assets/defi/limit-1.png)
-![Order Book](../assets/defi/limit-2.png)
-
-</details>
-
-### Tech Stack
-`React` `TypeScript` `xrpl.js` `Node.js` `MongoDB`
+`JavaScript` `Firebase` `xrpl.js` `Node.js` `Firestore`
 
 ---
 
