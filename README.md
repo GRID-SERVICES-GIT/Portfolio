@@ -78,7 +78,7 @@
 <details>
 <summary><b><img src="assets/gaming.png" width="40" style="border-radius: 50%;"/> Gaming Platforms</b></summary>
 
-- [Strategy Game](projects/gaming-casino.md#strategy-game) - Competitive strategy
+- [Faction Wars](projects/gaming-casino.md#faction-wars) - NFT community engagement
 - [Entertainment Platform](projects/gaming-casino.md#entertainment-platform) - Gaming hub
 
 </details>

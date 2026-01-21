@@ -1,44 +1,54 @@
-# 🎰 Gaming Platforms
+# 🎰 Gaming & Community Platforms
 
-> Entertainment and gaming platforms on the XRP Ledger
+> Entertainment, gaming, and community engagement platforms on the XRP Ledger
 
 ---
 
-## Strategy Game
+## Faction Wars
 
 <div align="center">
   
-  ![Strategy Game Banner](../assets/gaming/strategy-banner.png)
+  ![Faction Wars](../assets/banner.png)
   
-  **Blockchain Strategy Game**
+  **NFT Community Engagement Platform**
   
 </div>
 
 ### Overview
-A competitive strategy game where factions battle for territory and resources. Stake tokens, form alliances, and conquer.
+A gamified community engagement platform built around NFT ownership. Users join factions based on their NFT holdings, earning Faction Points (FP) through X/Twitter engagement, community raids, NFT ownership, and cross-platform activity. Features seasonal competitions, leaderboards, and rewards.
 
 ### Features
-- ✅ Faction-based gameplay
-- ✅ Territory control
-- ✅ Resource management
-- ✅ Alliance system
-- ✅ Battle mechanics
-- ✅ NFT integration
-- ✅ Season rewards
-- ✅ Governance voting
+- ✅ Xaman wallet integration with NFT verification
+- ✅ 8 unique factions based on NFT token ranges
+- ✅ Multi-source point accumulation:
+  - X/Twitter raid participation
+  - NFT ownership (idle bonus)
+  - Faction alignment bonus
+  - Community engagement scoring
+  - Cross-platform activity tracking
+- ✅ Real-time faction & individual leaderboards
+- ✅ Season-based competitions with countdown timers
+- ✅ Global and faction-specific chat systems
+- ✅ Admin dashboard with 2FA security
+- ✅ Automated point distribution via Firebase Functions
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Map View](../assets/gaming/strategy-1.png)
-![Battle Screen](../assets/gaming/strategy-2.png)
-![Faction Stats](../assets/gaming/strategy-3.png)
+![Leaderboard](../assets/gaming/faction-leaderboard.png)
+*Faction and individual rankings*
+
+![Faction Selection](../assets/gaming/faction-select.png)
+*Choose your faction based on NFT ownership*
+
+![Dashboard](../assets/gaming/faction-dashboard.png)
+*Track points and engagement*
 
 </details>
 
 ### Tech Stack
-`React` `TypeScript` `Node.js` `xrpl.js` `MongoDB` `Socket.io`
+`JavaScript` `Firebase` `Cloud Functions` `xrpl.js` `Xaman SDK` `Firestore`
 
 ---
 
