@@ -160,15 +160,6 @@ A gaming competition website (proxgamers.xyz) featuring tournaments, leaderboard
 - ✅ Future updates showcase
 - ✅ Firebase backend
 
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Home](../assets/websites/proxgamers-1.png)
-![Tournaments](../assets/websites/proxgamers-2.png)
-
-</details>
-
 ### Tech Stack
 `HTML` `CSS` `JavaScript` `Firebase`
 
