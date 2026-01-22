@@ -41,39 +41,38 @@ A community-driven platform for reporting and tracking bad actors in the XRPL ec
 
 ---
 
-## Token Website
+## Jester Token Website
 
 <div align="center">
   
-  ![Token Website Banner](../assets/websites/token-banner.png)
+  ![Jester Banner](../assets/websites/jester-banner.png)
   
-  **Professional Token Landing Page**
+  **Token Project Landing Page**
   
 </div>
 
 ### Overview
-Professional website for token projects. Features project information, tokenomics, roadmap, and community links.
+Professional marketing website for the Jester token project. Features animated visuals, lore storytelling, tokenomics breakdown, roadmap, and community sections. Built with vanilla HTML/CSS/JS for fast loading and easy deployment.
 
 ### Features
-- ✅ Modern responsive design
-- ✅ Animated UI elements
-- ✅ Tokenomics display
-- ✅ Roadmap visualization
-- ✅ Team section
-- ✅ Social links
-- ✅ FAQ section
+- ✅ Animated hero sections with video/GIF backgrounds
+- ✅ Tokenomics visualization
+- ✅ Project roadmap timeline
+- ✅ Lore & storytelling pages
+- ✅ Community links integration
+- ✅ Firebase hosting ready
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Home](../assets/websites/token-1.png)
-![Tokenomics](../assets/websites/token-2.png)
+![Home](../assets/websites/jester-1.png)
+![Tokenomics](../assets/websites/jester-2.png)
 
 </details>
 
 ### Tech Stack
-`React` `Next.js` `TailwindCSS` `Framer Motion`
+`HTML` `CSS` `JavaScript` `Firebase Hosting`
 
 ---
 
