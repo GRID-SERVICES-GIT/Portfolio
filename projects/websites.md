@@ -165,41 +165,6 @@ A gaming competition website (proxgamers.xyz) featuring tournaments, leaderboard
 
 ---
 
-## Web3 Application
-
-<div align="center">
-  
-  ![Web3 App Banner](../assets/websites/web3app-banner.png)
-  
-  **Utility Web Application**
-  
-</div>
-
-### Overview
-A versatile web application providing various utilities and services for XRPL users and token holders.
-
-### Features
-- ✅ Wallet integration
-- ✅ Token utilities
-- ✅ User dashboard
-- ✅ Analytics
-- ✅ Notifications
-- ✅ API access
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![App Interface](../assets/websites/web3app-1.png)
-![Dashboard](../assets/websites/web3app-2.png)
-
-</details>
-
-### Tech Stack
-`React` `TypeScript` `Node.js` `xrpl.js` `MongoDB`
-
----
-
 ## LUCHA Token Website
 
 <div align="center">
