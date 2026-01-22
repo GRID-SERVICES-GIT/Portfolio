@@ -139,38 +139,38 @@ A sports prediction platform for NFL and MLB games. Community members make weekl
 
 ---
 
-## Community Hub
+## ProxGamers
 
 <div align="center">
   
-  ![Community Hub Banner](../assets/websites/hub-banner.png)
+  ![ProxGamers Banner](../assets/websites/proxgamers-banner.png)
   
-  **Community Engagement Platform**
+  **Gaming Competition Platform**
   
 </div>
 
 ### Overview
-A dedicated space for community members to connect, share, and participate in ecosystem activities.
+A gaming competition website (proxgamers.xyz) featuring tournaments, leaderboards, and community features for competitive gamers. Includes gamer HQ, tournament registration, and future gaming updates.
 
 ### Features
-- ✅ Member directory
-- ✅ Content sharing
-- ✅ Achievement system
-- ✅ Event coordination
-- ✅ Resource library
-- ✅ Notification system
+- ✅ Tournament registration & management
+- ✅ Gamer profiles & HQ
+- ✅ Competition leaderboards
+- ✅ Beta tournament system
+- ✅ Future updates showcase
+- ✅ Firebase backend
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Hub Dashboard](../assets/websites/hub-1.png)
-![Activity Feed](../assets/websites/hub-2.png)
+![Home](../assets/websites/proxgamers-1.png)
+![Tournaments](../assets/websites/proxgamers-2.png)
 
 </details>
 
 ### Tech Stack
-`React` `Node.js` `MongoDB` `Socket.io`
+`HTML` `CSS` `JavaScript` `Firebase`
 
 ---
 
