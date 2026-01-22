@@ -55,7 +55,7 @@
 ### By Category
 
 <details>
-<summary><b><img src="assets/bot.png" width="40" style="border-radius: 50%;"/> Trading Bots (3)</b></summary>
+<summary><b>Trading Bots (3)</b></summary>
 
 🟡 [Market Maker Pro](projects/trading-bots.md#market-maker-pro) - Token-optimized market maker  
 🟡 [Sniper Bot](projects/trading-bots.md#sniper-bot) - Token launch sniper  
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary><b><img src="assets/defi.png" width="40" style="border-radius: 50%;"/> DeFi Tools (6)</b></summary>
+<summary><b>DeFi Tools (6)</b></summary>
 
 🟡 [GRID Wallet](projects/defi-tools.md#grid-wallet) - Secure XRPL wallet  
 🟡 [Grid Drop](projects/defi-tools.md#grid-drop) - Token distribution tool  
@@ -76,14 +76,14 @@
 </details>
 
 <details>
-<summary><b><img src="assets/gaming.png" width="40" style="border-radius: 50%;"/> Gaming & Community (1)</b></summary>
+<summary><b>Gaming & Community (1)</b></summary>
 
 🟡 [Faction Wars](projects/gaming-casino.md#faction-wars) - NFT community engagement platform
 
 </details>
 
 <details>
-<summary><b><img src="assets/nft.png" width="40" style="border-radius: 50%;"/> NFT (3)</b></summary>
+<summary><b>NFT (3)</b></summary>
 
 🟡 [GRID Syndicate](projects/nft.md#grid-syndicate) - NFT whitelist platform  
 🟡 [NFT Card Fusion](projects/nft.md#nft-card-fusion) - Card fusion & reminting  
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary><b><img src="assets/web.png" width="40" style="border-radius: 50%;"/> Websites & Platforms (6)</b></summary>
+<summary><b>Websites & Platforms (6)</b></summary>
 
 🟡 [The Badger Hole](projects/websites.md#the-badger-hole) - Bad actor reporting platform  
 🟡 [Jester Website](projects/websites.md#jester-token-website) - Token landing page  
@@ -104,7 +104,7 @@
 </details>
 
 <details>
-<summary><b><img src="assets/utilities.png" width="40" style="border-radius: 50%;"/> Utilities (3)</b></summary>
+<summary><b>Utilities (3)</b></summary>
 
 🟡 [Grid Node](projects/utilities.md#grid-node) - XRPL node infrastructure  
 🟡 [Token Checker](projects/utilities.md#token-checker) - Token verification tool  
