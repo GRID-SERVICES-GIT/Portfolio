@@ -217,6 +217,33 @@ A versatile web application providing various utilities and services for XRPL us
 
 ---
 
+## LUCHA Token Website
+
+<div align="center">
+  
+  ![LUCHA Banner](../assets/websites/lucha-banner.png)
+  
+  **Token Marketing & Information Website**
+  
+</div>
+
+### Overview
+A modern marketing website built for the LUCHA token ecosystem. Features comprehensive tokenomics documentation, whitepaper, NFT collection showcases, and project information. Built with Next.js for optimal performance and SEO.
+
+### Features
+- ✅ Modern responsive design
+- ✅ Tokenomics breakdown
+- ✅ Whitepaper documentation
+- ✅ NFT collection showcase
+- ✅ Team & roadmap sections
+- ✅ Social integration
+- ✅ Animated UI components
+
+### Tech Stack
+`Next.js` `TypeScript` `TailwindCSS` `React`
+
+---
+
 <div align="center">
   
   [← Back to Portfolio](../README.md)

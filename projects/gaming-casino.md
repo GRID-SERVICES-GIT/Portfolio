@@ -52,42 +52,6 @@ A gamified community engagement platform built around NFT ownership. Users join 
 
 ---
 
-## Entertainment Platform
-
-<div align="center">
-  
-  ![Entertainment Banner](../assets/gaming/entertainment-banner.png)
-  
-  **Interactive Entertainment Hub**
-  
-</div>
-
-### Overview
-A unique entertainment platform combining gaming elements with social features. Engage, compete, and earn.
-
-### Features
-- ✅ Interactive games
-- ✅ Social features
-- ✅ Reward system
-- ✅ NFT integration
-- ✅ Leaderboards
-- ✅ Events calendar
-- ✅ Community challenges
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Main Interface](../assets/gaming/entertainment-1.png)
-![Events](../assets/gaming/entertainment-2.png)
-
-</details>
-
-### Tech Stack
-`React` `Node.js` `xrpl.js` `MongoDB`
-
----
-
 <div align="center">
   
   [← Back to Portfolio](../README.md)
