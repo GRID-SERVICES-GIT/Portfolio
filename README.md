@@ -57,58 +57,58 @@
 <details>
 <summary><b><img src="assets/bot.png" width="40" style="border-radius: 50%;"/> Trading Bots (3)</b></summary>
 
-- [Market Maker Pro](projects/trading-bots.md#market-maker-pro) - Token-optimized market maker
-- [Sniper Bot](projects/trading-bots.md#sniper-bot) - Token launch sniper
-- [Volume Bot](projects/trading-bots.md#volume-bot) - Volume generation tool
+🟡 [Market Maker Pro](projects/trading-bots.md#market-maker-pro) - Token-optimized market maker  
+🟡 [Sniper Bot](projects/trading-bots.md#sniper-bot) - Token launch sniper  
+🟡 [Volume Bot](projects/trading-bots.md#volume-bot) - Volume generation tool
 
 </details>
 
 <details>
 <summary><b><img src="assets/defi.png" width="40" style="border-radius: 50%;"/> DeFi Tools (6)</b></summary>
 
-- [GRID Wallet](projects/defi-tools.md#grid-wallet) - Secure XRPL wallet
-- [Grid Drop](projects/defi-tools.md#grid-drop) - Token distribution tool
-- [Auto Airdrop](projects/defi-tools.md#auto-airdrop) - Automated NFT holder airdrops
-- [Grid Lock](projects/defi-tools.md#token-lock) - Token locking mechanism
-- [Limit Order Tool](projects/defi-tools.md#limit-order-tool) - DEX limit orders
-- [Token Faucet](projects/defi-tools.md#token-faucet) - Token claim system
+🟡 [GRID Wallet](projects/defi-tools.md#grid-wallet) - Secure XRPL wallet  
+🟡 [Grid Drop](projects/defi-tools.md#grid-drop) - Token distribution tool  
+🟡 [Auto Airdrop](projects/defi-tools.md#auto-airdrop) - Automated NFT holder airdrops  
+🟡 [Grid Lock](projects/defi-tools.md#token-lock) - Token locking mechanism  
+🟡 [Limit Order Tool](projects/defi-tools.md#limit-order-tool) - DEX limit orders  
+🟡 [Token Faucet](projects/defi-tools.md#token-faucet) - Token claim system
 
 </details>
 
 <details>
 <summary><b><img src="assets/gaming.png" width="40" style="border-radius: 50%;"/> Gaming & Community (1)</b></summary>
 
-- [Faction Wars](projects/gaming-casino.md#faction-wars) - NFT community engagement platform
+🟡 [Faction Wars](projects/gaming-casino.md#faction-wars) - NFT community engagement platform
 
 </details>
 
 <details>
 <summary><b><img src="assets/nft.png" width="40" style="border-radius: 50%;"/> NFT (3)</b></summary>
 
-- [GRID Syndicate](projects/nft.md#grid-syndicate) - NFT whitelist platform
-- [NFT Card Fusion](projects/nft.md#nft-card-fusion) - Card fusion & reminting
-- [NFT Traits Marketplace](projects/nft.md#nft-traits-marketplace) - Traits trading platform
+🟡 [GRID Syndicate](projects/nft.md#grid-syndicate) - NFT whitelist platform  
+🟡 [NFT Card Fusion](projects/nft.md#nft-card-fusion) - Card fusion & reminting  
+🟡 [NFT Traits Marketplace](projects/nft.md#nft-traits-marketplace) - Traits trading platform
 
 </details>
 
 <details>
 <summary><b><img src="assets/web.png" width="40" style="border-radius: 50%;"/> Websites & Platforms (6)</b></summary>
 
-- [The Badger Hole](projects/websites.md#the-badger-hole) - Bad actor reporting platform
-- [Jester Website](projects/websites.md#jester-token-website) - Token landing page
-- [Jungle Radio](projects/websites.md#jungle-radio) - Live streaming & requests
-- [Nuts Websites](projects/websites.md#nuts-websites) - Sports pick-em games
-- [ProxGamers](projects/websites.md#proxgamers) - Gaming competition platform
-- [LUCHA Website](projects/websites.md#lucha-token-website) - Token marketing site
+🟡 [The Badger Hole](projects/websites.md#the-badger-hole) - Bad actor reporting platform  
+🟡 [Jester Website](projects/websites.md#jester-token-website) - Token landing page  
+🟡 [Jungle Radio](projects/websites.md#jungle-radio) - Live streaming & requests  
+🟡 [Nuts Websites](projects/websites.md#nuts-websites) - Sports pick-em games  
+🟡 [ProxGamers](projects/websites.md#proxgamers) - Gaming competition platform  
+🟡 [LUCHA Website](projects/websites.md#lucha-token-website) - Token marketing site
 
 </details>
 
 <details>
 <summary><b><img src="assets/utilities.png" width="40" style="border-radius: 50%;"/> Utilities (3)</b></summary>
 
-- [Grid Node](projects/utilities.md#grid-node) - XRPL node infrastructure
-- [Token Checker](projects/utilities.md#token-checker) - Token verification tool
-- [Grid Tickets](projects/utilities.md#ticketing-system) - Ticketing system
+🟡 [Grid Node](projects/utilities.md#grid-node) - XRPL node infrastructure  
+🟡 [Token Checker](projects/utilities.md#token-checker) - Token verification tool  
+🟡 [Grid Tickets](projects/utilities.md#ticketing-system) - Ticketing system
 
 </details>
 
