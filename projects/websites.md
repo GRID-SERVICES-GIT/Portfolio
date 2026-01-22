@@ -4,39 +4,41 @@
 
 ---
 
-## Community Platform
+## The Badger Hole
 
 <div align="center">
   
-  ![Community Platform Banner](../assets/websites/community-banner.png)
+  ![Badger Hole Banner](../assets/websites/badger-banner.png)
   
-  **Member Engagement Hub**
+  **Community Watchdog Platform**
   
 </div>
 
 ### Overview
-A community hub for token ecosystems. Connect, collaborate, and participate in community governance and activities.
+A community-driven platform for reporting and tracking bad actors in the XRPL ecosystem. Members can submit reports, provide evidence, and help protect the community from scammers, rugpulls, and fraudulent projects.
 
 ### Features
-- ✅ Member profiles
-- ✅ Discussion forums
-- ✅ Announcements
-- ✅ Events calendar
-- ✅ Governance voting
-- ✅ Reward tracking
-- ✅ Leaderboards
+- ✅ Bad actor reporting system
+- ✅ Evidence submission with attachments
+- ✅ Community voting on reports
+- ✅ Searchable rug library database
+- ✅ Faction/reputation system
+- ✅ Automated X/Twitter alerts
+- ✅ Points and rewards system
+- ✅ Admin moderation dashboard
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Dashboard](../assets/websites/community-1.png)
-![Community](../assets/websites/community-2.png)
+![Dashboard](../assets/websites/badger-1.png)
+![Reports](../assets/websites/badger-2.png)
+![Library](../assets/websites/badger-3.png)
 
 </details>
 
 ### Tech Stack
-`React` `Next.js` `Node.js` `MongoDB` `xrpl.js`
+`React` `TypeScript` `Firebase` `Cloud Functions` `TailwindCSS`
 
 ---
 
