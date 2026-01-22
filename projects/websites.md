@@ -103,7 +103,6 @@ A community radio platform with live streaming and song request functionality. F
 
 ![Player](../assets/websites/jungle-1.png)
 ![Requests](../assets/websites/jungle-2.png)
-![Queue](../assets/websites/jungle-3.png)
 
 </details>
 
