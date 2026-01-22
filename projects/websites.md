@@ -76,39 +76,39 @@ Professional marketing website for the Jester token project. Features animated v
 
 ---
 
-## Streaming Platform
+## Jungle Radio
 
 <div align="center">
   
-  ![Streaming Banner](../assets/websites/streaming-banner.png)
+  ![Jungle Radio Banner](../assets/websites/jungle-banner.png)
   
-  **Community Media Platform**
+  **Live Streaming & Request Platform**
   
 </div>
 
 ### Overview
-A streaming platform for crypto communities. Live shows, podcasts, and community radio.
+A community radio platform with live streaming and song request functionality. Features real-time audio streaming, request queue management, and an interactive interface for listeners and DJs.
 
 ### Features
-- ✅ Live streaming
-- ✅ Podcast archive
-- ✅ Show schedule
-- ✅ Live chat
-- ✅ Request system
-- ✅ Host profiles
-- ✅ Community playlists
+- ✅ Live audio streaming
+- ✅ Song request system with queue
+- ✅ Real-time request display
+- ✅ DJ/host controls
+- ✅ Listener interaction
+- ✅ Mobile-responsive design
 
 ### Screenshots
 <details>
 <summary>View Screenshots</summary>
 
-![Player](../assets/websites/streaming-1.png)
-![Schedule](../assets/websites/streaming-2.png)
+![Player](../assets/websites/jungle-1.png)
+![Requests](../assets/websites/jungle-2.png)
+![Queue](../assets/websites/jungle-3.png)
 
 </details>
 
 ### Tech Stack
-`React` `Node.js` `WebSocket` `Audio API` `MongoDB`
+`HTML` `TailwindCSS` `Node.js` `Express` `SQLite`
 
 ---
 
