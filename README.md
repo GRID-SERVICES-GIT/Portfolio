@@ -1,4 +1,4 @@
-# 🔶 GRID XRPL - Project Portfolio
+# � GRID XRPL - Project Portfolio
 
 <div align="center">
   
@@ -31,12 +31,12 @@
 
 ---
 
-## 🔶 Highlights
+## � Highlights
 
 ### Most Popular
-- 🔶 **GRID Wallet** - Secure, user-friendly XRPL wallet
-- 🔶 **NFT Marketplace** - Full-featured NFT traits trading
-- 🔶 **Faction Wars** - NFT community engagement
+- � **GRID Wallet** - Secure, user-friendly XRPL wallet
+- 🟡 **NFT Marketplace** - Full-featured NFT traits trading
+- 🟡 **Faction Wars** - NFT community engagement
 
 ### Most Powerful
 - ⚡ **Sniper Bot** - Lightning-fast token sniping
@@ -50,7 +50,7 @@
 
 ---
 
-## 🔶 Quick Links
+## � Quick Links
 
 ### By Category
 
@@ -139,6 +139,6 @@ Interested in working together or licensing a project?
 
 <div align="center">
   
-  **Built with 🔶 for the XRPL Community**
+  **Built with � for the XRPL Community**
   
 </div>
