@@ -33,7 +33,6 @@ A community-driven platform for reporting and tracking bad actors in the XRPL ec
 
 ![Dashboard](../assets/websites/badger-1.png)
 ![Reports](../assets/websites/badger-2.png)
-![Library](../assets/websites/badger-3.png)
 
 </details>
 
