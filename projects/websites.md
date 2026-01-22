@@ -111,38 +111,31 @@ A community radio platform with live streaming and song request functionality. F
 
 ---
 
-## Multi-Brand Platform
+## Nuts Websites
 
 <div align="center">
   
-  ![Multi-Brand Banner](../assets/websites/multibrand-banner.png)
+  ![Nuts Banner](../assets/websites/nuts-banner.png)
   
-  **Multi-Tenant Web Platform**
+  **Sports Pick-Em Games Platform**
   
 </div>
 
 ### Overview
-A collection of websites for token ecosystems. Multiple interconnected web properties under one platform.
+A sports prediction platform for NFL and MLB games. Community members make weekly game picks, compete on leaderboards, and earn rewards. Features Xaman wallet integration for XRPL token payments and NFT holder verification.
 
 ### Features
-- ✅ Multi-tenant architecture
-- ✅ Shared authentication
-- ✅ Consistent branding
-- ✅ Analytics dashboard
-- ✅ CMS integration
-- ✅ SEO optimization
-
-### Screenshots
-<details>
-<summary>View Screenshots</summary>
-
-![Main Site](../assets/websites/multibrand-1.png)
-![Dashboard](../assets/websites/multibrand-2.png)
-
-</details>
+- ✅ NFL & MLB game pick-em
+- ✅ Weekly game schedules via ESPN API
+- ✅ Real-time leaderboards
+- ✅ Xaman wallet integration
+- ✅ XRPL token payments
+- ✅ NFT holder verification
+- ✅ Admin game management
+- ✅ Firebase backend
 
 ### Tech Stack
-`React` `Next.js` `Node.js` `PostgreSQL` `Vercel`
+`React` `TypeScript` `Firebase` `Cloud Functions` `TailwindCSS` `xrpl.js`
 
 ---
 
