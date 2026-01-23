@@ -12,18 +12,18 @@
 
 ---
 
-## � Project Categories
+## 🟡 Project Categories
 
 <div align="center">
 
 | Category | Count | Description |
 |:--------:|:-----:|:------------|
-| [<img src="assets/bot.png" width="64" style="border-radius: 50%;"/>](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
-| [<img src="assets/defi.png" width="64" style="border-radius: 50%;"/>](projects/defi-tools.md) | 6 | Wallets, airdrops, faucets, locking, DEX tools |
-| [<img src="assets/gaming.png" width="64" style="border-radius: 50%;"/>](projects/gaming-casino.md) | 1 | NFT community engagement platforms |
-| [<img src="assets/nft.png" width="64" style="border-radius: 50%;"/>](projects/nft.md) | 3 | NFT marketplaces, fusion, and tools |
-| [<img src="assets/web.png" width="64" style="border-radius: 50%;"/>](projects/websites.md) | 6 | Web applications and platforms |
-| [<img src="assets/utilities.png" width="64" style="border-radius: 50%;"/>](projects/utilities.md) | 3 | Token tools, nodes, ticketing |
+| [<img src="assets/bot.png" width="128"/>](projects/trading-bots.md) | 3 | Snipers, volume tools, market makers |
+| [<img src="assets/defi.png" width="128"/>](projects/defi-tools.md) | 6 | Wallets, airdrops, faucets, locking, DEX tools |
+| [<img src="assets/gaming.png" width="128"/>](projects/gaming-casino.md) | 1 | NFT community engagement platforms |
+| [<img src="assets/nft.png" width="128"/>](projects/nft.md) | 3 | NFT marketplaces, fusion, and tools |
+| [<img src="assets/web.png" width="128"/>](projects/websites.md) | 6 | Web applications and platforms |
+| [<img src="assets/utilities.png" width="128"/>](projects/utilities.md) | 3 | Token tools, nodes, ticketing |
 
 </div>
 
